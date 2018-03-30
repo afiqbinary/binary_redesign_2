@@ -1,0 +1,120 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "20C5F868-BE6C-4F77-8F23-28ACCD42B724",
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "398D22FD-3B34-4586-AC5D-97D0711D87BF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8F191230-8134-4518-BE86-9949C35F11FB",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "33A60ED5-4ECA-45F3-82D1-B0F5613E4FEF",
+    "height": 803,
+    "width": 1440,
+    "x": 2477,
+    "y": 21439
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6EDD3494-49A2-46D3-AF9C-1FE76BB9DA98",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1568BF95-CD64-46B3-9F89-EB48E786A7EB"
+    },
+    {
+      "class": "group",
+      "id": "675DED62-F01A-459C-BD30-C8502D1A4411"
+    },
+    {
+      "class": "group",
+      "id": "326353C7-301E-4B3B-B9BA-F88C983D2788"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E1F08EFF-4412-4AFD-9144-F5A746B86505"
+    },
+    {
+      "class": "group",
+      "id": "527C12E6-31F9-4292-8A96-2904086A7EFE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AC35EEB8-0165-49C8-8221-BE53AE5EDA81"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 96,
+    "do_objectID": "03762714-5448-47A6-BF11-F27C3ED3CB10",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 24,
+    "guttersOutside": false,
+    "horizontalOffset": 12,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1416
+  },
+  "name": "7-4. Link Copied",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "004D109E-BFA9-44AF-8AFD-FEEE1DE0B8E7",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "70220498-1409-4E85-9E75-4FE175FEE32A",
+    "guides": [
+    ]
+  }
+}

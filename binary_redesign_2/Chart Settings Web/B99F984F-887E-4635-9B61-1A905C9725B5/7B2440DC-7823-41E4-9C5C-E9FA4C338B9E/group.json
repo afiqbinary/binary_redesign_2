@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "do_objectID": "7B2440DC-7823-41E4-9C5C-E9FA4C338B9E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "697FD5DD-FD79-42A8-BA1A-854D0679A3D2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "971FA97D-F3CC-4A77-B209-B72D4FBAAB95",
+    "height": 803,
+    "width": 1440,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "E6F69601-B16F-4C90-BA7D-47B189F2FCA6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3B4DD328-B4AC-4E02-BC48-292AD4DA5ED7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CB567F9C-7682-490B-B674-F1D2FD4768F5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B4EEEDF2-4A52-4C1F-A0AF-3F40180D28DF"
+    }
+  ],
+  "name": "ends in ends out chart and parameter",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F1576DFB-5A34-47D9-ADC4-CDAE4CEB50EF",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

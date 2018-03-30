@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "BA1C8E93-895A-4AFF-9792-E5B6133F28ED",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E1333B42-CB86-4F3E-97EC-1ED9F3F486C8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3422F9BA-EF7B-4DFD-8D28-A78FE90E6242",
+    "height": 24,
+    "width": 24,
+    "x": 15,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "bg crosshair",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "98FE05C0-00AD-47A7-A6F4-EEF0AAECC7E5",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "C6459624-FC8C-41F4-B4A9-FA157F426838",
+  "verticalSpacing": 0
+}

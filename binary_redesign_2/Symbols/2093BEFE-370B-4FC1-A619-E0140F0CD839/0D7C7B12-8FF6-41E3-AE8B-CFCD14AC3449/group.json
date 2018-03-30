@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "0D7C7B12-8FF6-41E3-AE8B-CFCD14AC3449",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "50653ABE-5A6C-4E4D-8B0D-B271BC22FEFD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D8166730-A1F0-4937-9CE5-3266EE312FCE",
+    "height": 56,
+    "width": 144,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "03CF0D79-8063-49C7-BDEB-3CD7445CEEC3"
+    },
+    {
+      "class": "text",
+      "id": "98143063-2C6D-4F3E-BAAF-E9EBE3D5185D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2B9063D7-18A4-4E6D-BA2F-B8D907ED59F9"
+    }
+  ],
+  "name": "tab-Trade",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "030578FE-15A2-4AB8-8CC9-7C091903EF2E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

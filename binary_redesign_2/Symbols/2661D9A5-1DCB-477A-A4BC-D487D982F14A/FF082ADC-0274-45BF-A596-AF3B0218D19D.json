@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "FF082ADC-0274-45BF-A596-AF3B0218D19D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6E85E3F6-BF41-48DA-AAD2-8DDC78609152",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D3258621-12F6-404F-A10B-F26A6C439E1C",
+    "height": 16,
+    "width": 16,
+    "x": 16,
+    "y": 12
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icons/system/light/alert message/info",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 9,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E6CEF7ED-44A1-4DCE-AF28-580EC35C099A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "DEC34EF5-FD1E-4D0B-810E-CA2ABD88E200",
+  "verticalSpacing": 0
+}

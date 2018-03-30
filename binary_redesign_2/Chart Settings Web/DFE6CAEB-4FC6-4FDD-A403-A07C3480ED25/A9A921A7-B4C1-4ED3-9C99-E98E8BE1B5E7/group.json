@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "A9A921A7-B4C1-4ED3-9C99-E98E8BE1B5E7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D0E86A44-E211-4ECB-8B79-84B6620D469C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "33F75853-094F-4246-8D04-54E47F34D4D3",
+    "height": 144,
+    "width": 1068,
+    "x": 0,
+    "y": 447
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2A5B5730-5B1C-454D-A18C-E38820B933AB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "17ED5CCA-EA16-45E2-BFDE-037104B27E89"
+    }
+  ],
+  "name": "indicator aroon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "349BC0DC-5EA2-47B8-BD25-A7AA74BA86B5",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

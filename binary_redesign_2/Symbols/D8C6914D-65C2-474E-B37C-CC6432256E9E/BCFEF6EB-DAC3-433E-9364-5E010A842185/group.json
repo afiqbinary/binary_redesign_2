@@ -1,0 +1,84 @@
+{
+  "_class": "group",
+  "do_objectID": "BCFEF6EB-DAC3-433E-9364-5E010A842185",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2C975066-D81E-4289-BBE4-83F6241913AD",
+    "height": 24,
+    "width": 24,
+    "x": 4,
+    "y": 4
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F76F826D-F694-48B0-8C52-B980C4FB0B4E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2082C192-4441-47A8-AC05-F4173BC75D24"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "88E3FA7E-2027-4FCA-8F3E-EAA20F63AD97"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B92C9CF5-3045-46EC-8170-7749547E6230"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "702B235A-07D5-42CC-AD32-2FA22B8405A1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "25036841-F5FA-4B50-858C-FD3FC88F4017"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FC85B48A-E295-44B5-A546-807A5AF5353C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "84A34531-5CDF-41B4-85A7-96B0FB43352D"
+    }
+  ],
+  "name": "bmw-logo",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "3785B08D-2858-458F-8F22-F59AEB610D4E",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 0.4809619238476954,
+      "type": 0
+    },
+    "do_objectID": "D517C5F1-3188-457B-84C1-1DB948CC755E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

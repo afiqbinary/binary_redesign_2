@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "53A387F7-6CF0-437D-8BD6-C0E1A79A065A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4EE6B49D-F063-4650-BBC8-5F9E4D1F27F1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E35D2978-E9F4-4B3F-99A9-3883A69BBA9C",
+    "height": 32,
+    "width": 320,
+    "x": 0,
+    "y": 536
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "mobile/elements/chart settings/active",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5C5FD7EB-FEF8-40FD-8D1B-E01D1725251B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "C36AD23B-DED1-4851-9185-D664B8CDEF58",
+  "verticalSpacing": 0
+}

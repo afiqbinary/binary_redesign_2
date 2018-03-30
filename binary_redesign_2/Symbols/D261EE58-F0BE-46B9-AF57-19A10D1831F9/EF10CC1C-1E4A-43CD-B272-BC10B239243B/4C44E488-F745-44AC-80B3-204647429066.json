@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "4C44E488-F745-44AC-80B3-204647429066",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6DCE3A8E-B3E7-482A-B43C-97C87A6224A9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5596E833-4A84-4D26-AEAF-B3AE7AFA2FF3",
+    "height": 16,
+    "width": 16,
+    "x": 20,
+    "y": 16
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Material/Icons black/menu",
+  "nameIsFixed": false,
+  "originalObjectID": "2C008E56-F3FF-47E8-A259-EE418486D816",
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 41,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B926048B-F854-40C5-BD22-C00B290919AE",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "6E092AC3-15A5-4304-8BFF-CD3FC454D798",
+  "verticalSpacing": 0
+}

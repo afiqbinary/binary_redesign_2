@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "59F10234-4199-4460-A26B-54C07139C0E5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EEF4B029-90A6-4916-BE60-CE8D1543B406",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5851C669-9065-4EF9-A917-3C235142272A",
+    "height": 16,
+    "width": 16,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "878E0251-FE71-4780-93A2-932E2747F906"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9CB97520-837C-4458-A2F1-FC6312926C9D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "53DBFAD0-90A4-4AA8-B068-80E65A2BD562"
+    }
+  ],
+  "name": "ic-checkbox-active-light",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "03FA7F42-72E9-4ABE-861E-9365585D31FB",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

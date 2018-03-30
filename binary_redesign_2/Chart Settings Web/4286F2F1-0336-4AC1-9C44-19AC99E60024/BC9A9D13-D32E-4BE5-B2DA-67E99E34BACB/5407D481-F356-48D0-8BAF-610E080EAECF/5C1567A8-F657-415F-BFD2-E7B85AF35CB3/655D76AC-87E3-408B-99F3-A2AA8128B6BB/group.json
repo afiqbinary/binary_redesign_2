@@ -1,0 +1,88 @@
+{
+  "_class": "group",
+  "do_objectID": "655D76AC-87E3-408B-99F3-A2AA8128B6BB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B0FF63C6-F5F1-4F63-99E4-36209B79CFCF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B07A8D78-11D6-443B-9183-516E0943F154",
+    "height": 311,
+    "width": 366,
+    "x": 1,
+    "y": 29
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "89D0DEA7-7D8B-415A-8250-AA3624C84E56"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8A717217-749F-41E9-B00F-9348C74AC2FF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C1C201B8-DC64-4270-A6AD-6D781C77A739"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D7808FBB-DBFA-4054-B3EC-469391610322"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "32C87973-5536-4751-B69B-DA679BB85494"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C0D32922-EBAF-4128-A15F-02B4D8D50D7C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A2DCBEA7-CB30-496A-AF78-6B2E30CFC5A5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4FEAC233-56DE-4CF1-93F8-22F7AF8EFB8B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9C3C5968-1520-4F04-B96B-DFC9ACBF2E2E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E2361D2C-1C63-423C-9C57-2A5865EAB2B0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B1C5189E-8F11-4F68-BC14-636281871EDF"
+    }
+  ],
+  "name": "rows",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5477AE05-2E70-4104-88DA-058CBA14CCC7",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "BB398276-E836-43AC-A41D-50870C0FF27A",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 726,
+  "do_objectID": "066AAC30-87D7-4422-9297-5894C9FB0293",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6E8505D2-BD9F-4053-93E3-23188B4EC0D1",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A2638CE3-3E3C-4D4F-9652-64BB08189302",
+    "height": 16,
+    "width": 16,
+    "x": 22732,
+    "y": 6400
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "123F6801-E231-4DF0-94DD-529DFE3F17D6",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "DD401B97-AA20-41DB-BC87-CB468BA247C9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "033D4B81-B8EB-41B8-8DD7-75896F8392BC"
+    }
+  ],
+  "name": "icons/system/light/copy/ic-copy",
+  "nameIsFixed": true,
+  "originalObjectID": "96DD076B-845A-4535-88F5-64B857A1AF0B",
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1FD2C058-3438-4EDA-9A34-4F39CF4D6FDB",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "5F736360-499E-412C-BBA4-7799DB4D6803",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A5DEA1A3-1C92-45A1-B6B8-32C85A911BE6",
+    "guides": [
+    ]
+  }
+}

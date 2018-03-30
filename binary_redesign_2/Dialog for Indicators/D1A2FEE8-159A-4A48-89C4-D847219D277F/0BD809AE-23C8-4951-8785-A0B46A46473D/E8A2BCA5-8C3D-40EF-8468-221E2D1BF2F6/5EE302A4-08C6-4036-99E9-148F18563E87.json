@@ -1,0 +1,66 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "5EE302A4-08C6-4036-99E9-148F18563E87",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AB552AFF-750D-4B07-AFB3-5104F1F3B860",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "00A4FAFA-350A-4C0B-B60D-C3E4A609DF20",
+    "height": 48,
+    "width": 344,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "title",
+  "nameIsFixed": true,
+  "originalObjectID": "9BD91C57-E91E-49D9-9D88-914E4B8A0A40",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "954CD251-E303-4C77-B8F3-A2D512C8A22B_symbolID",
+      "value": "9C510492-C708-4D95-BB40-2591F3F8DE48"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "499844FC-5164-40C8-8C3D-E4FA4C1D0B16_stringValue",
+      "value": "Stochastics (14,Y)"
+    }
+  ],
+  "overrides": {
+    "499844FC-5164-40C8-8C3D-E4FA4C1D0B16": "Stochastics (14,Y)",
+    "954CD251-E303-4C77-B8F3-A2D512C8A22B": {
+      "symbolID": "9C510492-C708-4D95-BB40-2591F3F8DE48"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4958DF7A-8AF8-4A6D-8BE4-131D476674E4",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "6491C27D-A130-426E-BA56-012B6393072B",
+  "userInfo": {
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,79 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "57F3CA00-EC46-4ADC-B4D3-0758B8E78E2A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "95B1C722-D430-4C64-B160-5D93534DE5E7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5C9933B2-D0EC-479D-A9F5-D335476A722A",
+    "height": 40,
+    "width": 200,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list/title/without back button/transparent/light",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "D7438A0D-B00F-427E-9681-8955577BDEB6_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "93301127-D6DD-42BD-BF40-5EBF4DF93808_stringValue",
+      "value": "Draw Tools"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "BDE6F45D-BDA6-4A4C-979D-84FD731D2FD5_symbolID",
+      "value": "4626E370-A332-43AE-B689-4949C321DB8E"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "892CBF26-4CE5-4755-B3FF-3389ADC279A7_symbolID",
+      "value": "B0254C8E-5FB9-44F0-8C25-4F69EC0B5630"
+    }
+  ],
+  "overrides": {
+    "892CBF26-4CE5-4755-B3FF-3389ADC279A7": {
+      "symbolID": "B0254C8E-5FB9-44F0-8C25-4F69EC0B5630"
+    },
+    "93301127-D6DD-42BD-BF40-5EBF4DF93808": "Draw Tools",
+    "BDE6F45D-BDA6-4A4C-979D-84FD731D2FD5": {
+      "symbolID": "4626E370-A332-43AE-B689-4949C321DB8E"
+    },
+    "D7438A0D-B00F-427E-9681-8955577BDEB6": {
+      "symbolID": ""
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "243F971D-9230-4AFA-B4C7-96EB48948083",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "687C2186-84CF-4E78-B407-A3636F7C2448",
+  "verticalSpacing": 0
+}

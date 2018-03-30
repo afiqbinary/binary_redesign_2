@@ -1,0 +1,76 @@
+{
+  "_class": "group",
+  "do_objectID": "CAAD5A3B-DF07-4528-8547-1424F9B19A6F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FA0AFF40-3E1D-47F3-AD78-E8417E21681A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3F309743-32C1-4B80-946B-465BE494A74D",
+    "height": 272,
+    "width": 300,
+    "x": 10,
+    "y": 28
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8BDD115C-1FB3-4620-BC72-7F8B7EAFE94D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "94423AB4-37AF-4858-B435-491726FFD587"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "99DF6BED-D5D4-4606-8614-4C3D7B9C5359"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B69B1DEB-AF58-4304-B3C2-5092163DF7F1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "299B88AA-A2EB-4B70-A955-C207FED1248E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "49823F53-5DC0-4CD1-8C2D-78705DD72218"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1168DB28-F40B-4AD9-AF1C-04165D89330E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B9B30BA1-2B75-47B9-87C9-C1D63BD9D1A0"
+    }
+  ],
+  "name": "asia/oceania",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2CD6A755-7147-4014-8D07-E347869004B8",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

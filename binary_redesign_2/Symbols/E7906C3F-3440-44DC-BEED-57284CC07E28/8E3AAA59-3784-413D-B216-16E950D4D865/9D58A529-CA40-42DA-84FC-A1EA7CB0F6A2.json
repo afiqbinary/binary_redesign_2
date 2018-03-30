@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "9D58A529-CA40-42DA-84FC-A1EA7CB0F6A2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B629DFB2-94D8-4DDA-B646-17155DB923A6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "83938699-477D-44FE-A3B0-82A8F031C535",
+    "height": 56,
+    "width": 144,
+    "x": 577,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Cashier",
+  "nameIsFixed": true,
+  "originalObjectID": "8ABB2721-B0CB-4AD3-A8E0-73FE22FFBAFE",
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C22A4778-7D1E-4777-86F1-D6B1243D0568",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "321A8595-00B1-4B85-BE6E-5488F73AD5CE",
+  "verticalSpacing": 0
+}

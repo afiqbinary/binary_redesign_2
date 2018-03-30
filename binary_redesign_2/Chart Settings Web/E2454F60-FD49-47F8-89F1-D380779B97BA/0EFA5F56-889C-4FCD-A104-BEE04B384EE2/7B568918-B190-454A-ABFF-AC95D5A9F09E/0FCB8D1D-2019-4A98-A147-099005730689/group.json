@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "do_objectID": "0FCB8D1D-2019-4A98-A147-099005730689",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1EC92EC6-DA66-427F-828E-2CBFA6EC1E33",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2923769A-BA8C-4775-BEEB-8AB37697AB93",
+    "height": 265,
+    "width": 324,
+    "x": 0,
+    "y": 421
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2675EF0C-5AF3-443B-A136-F22F3B780300"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C6812CC1-B133-4147-BCE9-FFBEF8A4A761"
+    },
+    {
+      "class": "group",
+      "id": "9D4EBFA8-B0B7-4D85-8310-28938F61DEF4"
+    },
+    {
+      "class": "group",
+      "id": "E46AB513-318D-4493-A8C3-E37256E56FDD"
+    }
+  ],
+  "name": "COntract",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B5A409CB-94F6-4913-A74C-671F0A25CBFA",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

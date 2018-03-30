@@ -1,0 +1,88 @@
+{
+  "_class": "group",
+  "do_objectID": "740D299B-4389-453F-BD9E-ACAE17769EA6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FA0D3F4C-FFB8-46E6-AAF4-8E76705F2794",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3A3F205C-B7D3-49DA-9401-5A456C320512",
+    "height": 16,
+    "width": 1064,
+    "x": 0,
+    "y": 659
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "F2967C61-AFD8-4FF4-8985-BB9FB7C4C974"
+    },
+    {
+      "class": "text",
+      "id": "69FFA385-4D49-4235-AD7C-7297A5D11259"
+    },
+    {
+      "class": "text",
+      "id": "8D513517-6010-4424-BF34-D5810E0CB0EA"
+    },
+    {
+      "class": "text",
+      "id": "5A6ACA28-0BA5-4B2A-96D3-7E5F6576FC8A"
+    },
+    {
+      "class": "text",
+      "id": "EB65856F-A8F7-43A4-A60F-7CE173C79A0D"
+    },
+    {
+      "class": "text",
+      "id": "065F8057-A502-45A1-8FFC-30F2E36D1423"
+    },
+    {
+      "class": "text",
+      "id": "6EC1B63C-FB08-40B8-9A64-667243F88213"
+    },
+    {
+      "class": "text",
+      "id": "0041FEB4-13FB-464B-859C-2658C66979E3"
+    },
+    {
+      "class": "text",
+      "id": "962AC859-670F-4A22-A412-1A2995821C23"
+    },
+    {
+      "class": "text",
+      "id": "AEF5B068-06AB-4341-B80F-36DB447021E7"
+    },
+    {
+      "class": "text",
+      "id": "69827BA1-4132-415D-A36A-03F15504CBC8"
+    }
+  ],
+  "name": "chart time",
+  "nameIsFixed": true,
+  "resizingConstraint": 37,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E19F3DFF-187A-4497-B6C0-F328A1DC03D5",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

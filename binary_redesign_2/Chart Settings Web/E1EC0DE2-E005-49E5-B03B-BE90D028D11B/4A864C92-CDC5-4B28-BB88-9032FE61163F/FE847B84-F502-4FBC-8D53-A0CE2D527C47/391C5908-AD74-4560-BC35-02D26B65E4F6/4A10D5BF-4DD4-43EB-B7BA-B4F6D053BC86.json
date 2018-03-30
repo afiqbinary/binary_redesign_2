@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "4A10D5BF-4DD4-43EB-B7BA-B4F6D053BC86",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7EDD0F49-F5D4-46CE-9890-BE059CED3156",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6D221F5F-DCB5-46D7-A7AE-270EB1B653CC",
+    "height": 16,
+    "width": 16,
+    "x": 224,
+    "y": 8
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icons/system/dark/copy/ic-copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E10DCCC7-9080-444F-8467-AC3276EF3E12",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "C01C3E4D-B6D1-4BE5-8560-9F76A62DF2FD",
+  "verticalSpacing": 0
+}

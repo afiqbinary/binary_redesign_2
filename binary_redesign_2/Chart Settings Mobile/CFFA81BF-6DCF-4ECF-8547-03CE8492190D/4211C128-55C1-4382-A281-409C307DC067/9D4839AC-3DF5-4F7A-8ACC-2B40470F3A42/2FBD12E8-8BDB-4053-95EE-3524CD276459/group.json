@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "2FBD12E8-8BDB-4053-95EE-3524CD276459",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "42FFEE15-4592-4B6E-A4D7-CCF2615592A1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "17374BD6-77CD-40C6-B766-D5DA93FC6777",
+    "height": 77,
+    "width": 300,
+    "x": 10,
+    "y": 230
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B2F94AC8-2648-4D4F-AB0F-1FF401FAE0C7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "37F6404E-F0AA-4F65-AFDB-ED5DC3D454CA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "05DE739A-22E1-4302-82A7-8E5FEFE80DE4"
+    }
+  ],
+  "name": "enery",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9FEEA160-3E02-4B66-8933-024C2F1F3E10",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

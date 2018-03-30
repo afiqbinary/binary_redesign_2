@@ -1,0 +1,87 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "3DECBA69-11D7-4F29-9D85-37F5D54532B9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9FF167BD-FB54-4038-A9BB-E29F45F95E2E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "838E30A2-99EB-4312-891A-CCC91A0191EE",
+    "height": 40,
+    "width": 302,
+    "x": -1,
+    "y": 77
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "row-2",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "5830E625-938B-4CDC-BF32-7389919130DF_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "855A783E-3312-48F7-BC69-6862D6BA7E38_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D3508DDB-34C9-4CB4-8D0B-C2C46D1D4C53_symbolID",
+      "value": "50CB15CF-ECEF-4311-A4B9-A7BC40796953"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "DAFB1CA2-7767-4024-B9F2-C5453FDD3A76_stringValue",
+      "value": "Volatility 25 Index"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D3508DDB-34C9-4CB4-8D0B-C2C46D1D4C53/3F6F1428-E9A2-43D6-BA9B-B45FD4BA2AF0_symbolID",
+      "value": "47B330A0-303D-41A4-ABDD-5142BE66B94F"
+    }
+  ],
+  "overrides": {
+    "5830E625-938B-4CDC-BF32-7389919130DF": {
+      "symbolID": ""
+    },
+    "855A783E-3312-48F7-BC69-6862D6BA7E38": {
+      "symbolID": ""
+    },
+    "D3508DDB-34C9-4CB4-8D0B-C2C46D1D4C53": {
+      "3F6F1428-E9A2-43D6-BA9B-B45FD4BA2AF0": {
+        "symbolID": "47B330A0-303D-41A4-ABDD-5142BE66B94F"
+      },
+      "symbolID": "50CB15CF-ECEF-4311-A4B9-A7BC40796953"
+    },
+    "DAFB1CA2-7767-4024-B9F2-C5453FDD3A76": "Volatility 25 Index"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0FA37E11-63DC-443B-AA50-0C678A303735",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "7B790581-CCF2-4096-A3B7-1EF0B9E7AE92",
+  "verticalSpacing": 0
+}

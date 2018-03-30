@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "C0A9A489-9804-4ADB-9937-64563AEC53E9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "74784790-CE7E-4478-85A7-B5631147C536",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "42F066C7-F40B-40C5-A205-73959CA8B52E",
+    "height": 397,
+    "width": 320,
+    "x": 0,
+    "y": 5171
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "08CF603F-50FC-49D9-85EB-E22B7B679200"
+    },
+    {
+      "class": "group",
+      "id": "A2646F9C-1FDE-4071-9675-C810E7F9F90A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1A90595B-85BE-43A1-98DD-0A060A3C3864"
+    }
+  ],
+  "name": "Volatility Indices",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "04E68B51-E75E-439D-88DF-9D9D81F78046",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

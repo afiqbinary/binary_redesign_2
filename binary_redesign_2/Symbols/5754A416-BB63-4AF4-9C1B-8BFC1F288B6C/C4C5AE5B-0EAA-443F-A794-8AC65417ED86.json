@@ -1,0 +1,72 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C4C5AE5B-0EAA-443F-A794-8AC65417ED86",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F5916980-9AF0-4E33-AD10-3AEA59F5D079",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "26CEBFE0-2824-4EE4-B752-0613A80375DA",
+    "height": 32,
+    "width": 434,
+    "x": 317,
+    "y": 612
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "elements/chart settings",
+  "nameIsFixed": false,
+  "originalObjectID": "ABF3DA77-0F00-49AF-9CB0-B29C5F98E6BC",
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9B0B0ACB-A17E-4FE2-B0E0-33AD4BC99786",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 4,
+        "color": {
+          "_class": "color",
+          "alpha": 0.04,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "symbolID": "728B798C-B0B3-4A62-B454-63B114B346B5",
+  "verticalSpacing": 0
+}

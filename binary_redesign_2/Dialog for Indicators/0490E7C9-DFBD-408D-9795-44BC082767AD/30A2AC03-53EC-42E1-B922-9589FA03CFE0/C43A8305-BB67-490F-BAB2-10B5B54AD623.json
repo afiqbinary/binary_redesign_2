@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C43A8305-BB67-490F-BAB2-10B5B54AD623",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1F23D4E0-A671-45FE-ABCB-9FCF0599B5F3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "49DC0605-7066-4274-9F0B-096A01687CD4",
+    "height": 32,
+    "width": 344,
+    "x": 0,
+    "y": 224
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "macd",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4E2B22C8-6F58-4F10-88D4-6847740FBFC7",
+      "overrideName": "C9EDC3A3-433F-46C1-BC4E-A6226D11256E_stringValue",
+      "value": "MACD"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FCC3CBCF-5ADA-4CEB-A785-0E9FEC2D2329",
+      "overrideName": "48ECD812-FF01-4C11-8F01-F1CD411AEB2F_symbolID",
+      "value": "BB74EB4A-96A5-43B3-AC61-D94CD447B2F9"
+    }
+  ],
+  "overrides": {
+    "48ECD812-FF01-4C11-8F01-F1CD411AEB2F": {
+      "symbolID": "BB74EB4A-96A5-43B3-AC61-D94CD447B2F9"
+    },
+    "C9EDC3A3-433F-46C1-BC4E-A6226D11256E": "MACD"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D37D8FB5-3392-4FCE-A97D-333FDC74C9A5",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "0C00E06B-423D-4CD2-A78C-ADCDC12B83B6",
+  "verticalSpacing": 0
+}

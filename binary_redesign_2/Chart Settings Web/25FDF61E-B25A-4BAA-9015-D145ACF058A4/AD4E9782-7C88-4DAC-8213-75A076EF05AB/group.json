@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "AD4E9782-7C88-4DAC-8213-75A076EF05AB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EA65CE6E-AE76-4786-834E-3D6A700756F6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EA1A5E15-8124-4690-89A2-21C40098021D",
+    "height": 723,
+    "width": 1440,
+    "x": 0,
+    "y": 80
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "03A2554A-E2BD-431C-B30F-EEE3A80404EE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4B0FC347-95D0-40A1-83F4-54AC10E90D69"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8171F20D-42FF-404D-82D6-D36E33A6FC0F"
+    }
+  ],
+  "name": "ends in ends out chart and parameter",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B347A6BE-8C56-46AE-88BB-AB0231697DB3",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

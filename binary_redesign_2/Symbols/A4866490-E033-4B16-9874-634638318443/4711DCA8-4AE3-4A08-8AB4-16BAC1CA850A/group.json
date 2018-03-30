@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "4711DCA8-4AE3-4A08-8AB4-16BAC1CA850A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "331D2FD4-EC61-4359-A87F-E8B7CE02436D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "41C1BD8C-F056-4346-A41B-89895556F52D",
+    "height": 24,
+    "width": 24,
+    "x": 4,
+    "y": 4
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C56BD7AB-1CA8-428E-BC08-8C8CF36E4757"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8C4110A1-FFA4-460B-885C-EDA61E851A9D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6AAF3698-656B-44B3-99E9-2F62BF329D19"
+    }
+  ],
+  "name": "ic_insert_drive_file_black_24px",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2E7814D5-94F1-469A-9264-A4B7E136A08A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

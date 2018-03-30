@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "7B47B242-00E7-4483-AFFC-C0E687541645",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0D432AE8-3EF0-445C-8914-272244863C1F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A4FB24FC-A82B-4D20-A594-9156759B4111",
+    "height": 168,
+    "width": 1068,
+    "x": 0,
+    "y": 581
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "charts/indicator/true range",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8C93FBBD-DBC1-4BDE-87D0-82D5D4A2146D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "3F6DFE84-AE16-42B5-A3AB-DA0321218AAA",
+  "verticalSpacing": 0
+}

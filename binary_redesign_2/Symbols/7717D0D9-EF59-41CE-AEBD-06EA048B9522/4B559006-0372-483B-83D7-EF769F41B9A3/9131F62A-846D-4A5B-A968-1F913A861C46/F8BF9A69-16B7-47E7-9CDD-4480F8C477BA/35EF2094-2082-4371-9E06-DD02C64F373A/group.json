@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "35EF2094-2082-4371-9E06-DD02C64F373A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "733D9586-4097-4493-9031-E7700AF95146",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "767DAECF-F0B6-45F9-9BA0-30FA357DE6CF",
+    "height": 29,
+    "width": 308,
+    "x": 0,
+    "y": 34
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "389B1AEE-4CDF-4472-87C5-0A9138620659"
+    },
+    {
+      "class": "text",
+      "id": "E34A8E21-D3D0-4921-AA70-EB1252E5C1F9"
+    }
+  ],
+  "name": "High Barrier",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4EB382EC-53D9-41FD-B3FA-B5D0ACC029DE",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

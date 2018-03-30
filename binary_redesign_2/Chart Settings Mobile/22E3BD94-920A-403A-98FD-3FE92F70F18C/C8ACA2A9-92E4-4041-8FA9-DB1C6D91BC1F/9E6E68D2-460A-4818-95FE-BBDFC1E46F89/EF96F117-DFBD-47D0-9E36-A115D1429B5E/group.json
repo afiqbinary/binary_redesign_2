@@ -1,0 +1,88 @@
+{
+  "_class": "group",
+  "do_objectID": "EF96F117-DFBD-47D0-9E36-A115D1429B5E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2FA58880-F2FF-49D3-A4C7-3B9EC7650D60",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "91B1B69A-3A10-4C6A-AB56-1BDBF3204AD1",
+    "height": 390,
+    "width": 300,
+    "x": 10,
+    "y": 28
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "571BB5FD-CB2A-410B-BD71-479E403CB680"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "901B405F-5D02-422C-AFB9-5BC68DE08BE3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "73696ECB-9839-4429-96D3-AA69BE59DD23"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E8CBE637-CC71-4D24-9FB1-13976B37560D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F1A24CA5-742E-4ACA-B449-95AA712E24F2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6E80F9E6-D5A7-4F4B-92D6-265441A21B5E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EC50CCEF-DA9E-45B7-9313-C89778BCA00A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9557FA6C-3D7E-4272-B11B-A4719F60CF90"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D6914C38-1C5E-468D-8B56-B8ED44F5D5AC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5531D17F-7F06-4CEE-A088-5E7B83FFC608"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B50EE811-09B4-4446-8BEF-7228DBBBE08E"
+    }
+  ],
+  "name": "rows",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "16FED0BF-052E-4F64-BDDE-00BDA99B1C68",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

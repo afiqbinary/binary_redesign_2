@@ -1,0 +1,110 @@
+{
+  "_class": "group",
+  "do_objectID": "A0DD6197-BCFD-4CA3-8678-398020A6FEE7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "93BC74C0-D8B5-45CA-BA26-08E2C45F2EE5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D4A91A0A-E663-492D-91BE-5674C40699AC",
+    "height": 336,
+    "width": 200,
+    "x": 257,
+    "y": 348
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2713AF22-D89E-4923-A167-DB3BED20348C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AA1B4BC9-BB84-46B6-A25D-5CBC7877BC5A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3CB90817-C95B-491D-8601-E79FF16388A1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6C05AB9D-983A-4FA7-9A4A-E698A74388D9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D9AD8383-5012-4EFF-8BDC-C0B9A3D91933"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C4F7C2E3-7304-403C-BCB6-B201E489FC86"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "989EB0A5-9ECC-44F5-B776-F2B272EACED5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CD96E4C3-0CED-403D-95AE-821C812765E9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C8FAA9AE-1A4F-4AA4-A609-9A3B6F65ECD7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5BE2A39A-977A-4388-88F9-8C20EA45CC6A"
+    },
+    {
+      "class": "group",
+      "id": "6CB58023-8147-447C-9410-35012B0FBC51"
+    }
+  ],
+  "name": "chart style popup",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E174CD94-D538-48AF-A944-43D5F60E90C6",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 10,
+        "color": {
+          "_class": "color",
+          "alpha": 0.14,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 0,
+        "offsetY": 6,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  }
+}

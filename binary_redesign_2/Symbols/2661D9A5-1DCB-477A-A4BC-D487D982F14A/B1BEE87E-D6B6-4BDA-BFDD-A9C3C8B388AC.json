@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "B1BEE87E-D6B6-4BDA-BFDD-A9C3C8B388AC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5E3490F3-724B-4F0C-8FCA-D61FC0D27654",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B948C8B6-B901-491F-AD64-767424E61B7D",
+    "height": 16,
+    "width": 16,
+    "x": 572,
+    "y": 12
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icons/system/binary/close/ic-close-light",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 44,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F60C6837-9E58-4387-9748-D74121DFE9D5",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "32ADCCE7-93D5-45EC-B17C-89B6BD69257C",
+  "verticalSpacing": 0
+}

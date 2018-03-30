@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "do_objectID": "95D4C0C5-728B-4EBB-B215-B50614AAECFB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D0A7FD55-8DE0-4F5F-9A8E-7060BAD1D1AF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E7C29434-5090-4DA5-A392-91D8480705BF",
+    "height": 16,
+    "width": 16,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A5A67968-7966-4C42-BF91-CD42B5DC9395"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "906596F4-0143-4319-BDB5-83A4C68FBEBE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "67249617-5DF2-4DE5-B14C-507A5DB1049D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2B996A0B-ECA5-410A-A8F7-60A8AD0479A1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8F57EE4F-3977-4B28-B4F0-06A10B9D57C4"
+    }
+  ],
+  "name": "vector",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A342CBB9-B81D-4A31-9122-77768DB9036C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

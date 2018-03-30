@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "074A5E91-3B9F-4DBB-8D15-E88F1F25A17A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E822D73D-2313-4ED5-B63F-20337360D8D7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6541A6A1-BAF6-4497-94E6-55B8F571377F",
+    "height": 56,
+    "width": 270,
+    "x": 270,
+    "y": 64
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "A315517A-FFE6-4A12-9492-C66869E6AC11"
+    },
+    {
+      "class": "text",
+      "id": "1AA464F9-1780-420D-8A89-4F7EFF3011EF"
+    },
+    {
+      "class": "group",
+      "id": "5DB7ADA8-28C5-48F0-8F41-E6D0EF924AF4"
+    }
+  ],
+  "name": "even/odd",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "356B7BD1-2195-4BAC-AE11-A27D5A531ABB",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

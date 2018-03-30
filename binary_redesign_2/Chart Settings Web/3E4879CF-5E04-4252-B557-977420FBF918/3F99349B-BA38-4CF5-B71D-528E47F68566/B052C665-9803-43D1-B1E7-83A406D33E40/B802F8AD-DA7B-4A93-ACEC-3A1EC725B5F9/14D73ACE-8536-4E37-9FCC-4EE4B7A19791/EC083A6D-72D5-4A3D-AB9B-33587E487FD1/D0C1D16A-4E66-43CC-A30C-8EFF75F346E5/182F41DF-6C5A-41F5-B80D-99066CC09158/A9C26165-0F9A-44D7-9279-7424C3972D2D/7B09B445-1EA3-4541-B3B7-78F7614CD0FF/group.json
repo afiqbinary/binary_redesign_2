@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "7B09B445-1EA3-4541-B3B7-78F7614CD0FF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "39EFB35E-C55D-4E98-A01D-3F4DDBD356F5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6E8BDC0B-091B-4DC3-9B00-650EA529F946",
+    "height": 16,
+    "width": 16,
+    "x": 5,
+    "y": 5
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1DF2E3F8-0E70-4AE1-9C36-88727D1745A3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B45D0595-FCBF-493E-9CBE-D565425F51A5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2BB62C7A-E776-46F0-A5C3-5E1DA4EA0A9E"
+    },
+    {
+      "class": "group",
+      "id": "934EE1CE-F74D-46FE-978F-04E38FCC6915"
+    }
+  ],
+  "name": "binary/icons/Ends out/ Ends out On",
+  "nameIsFixed": true,
+  "originalObjectID": "87D7B352-B294-438E-96D5-B9E48869E106",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "73F3DA97-577A-4272-8292-4E89066D674D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

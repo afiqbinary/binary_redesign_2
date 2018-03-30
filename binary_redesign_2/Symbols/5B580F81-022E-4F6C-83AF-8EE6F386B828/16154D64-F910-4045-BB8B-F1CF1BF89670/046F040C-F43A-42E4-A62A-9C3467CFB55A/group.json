@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "046F040C-F43A-42E4-A62A-9C3467CFB55A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "273D0A3D-CFF5-4598-875D-609C9AE62CB9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5484353D-2FBF-44E6-9887-57EB6BE71BCE",
+    "height": 56,
+    "width": 270,
+    "x": 0,
+    "y": 176
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "2D46C9C0-A207-4B5D-8DE8-C95775B6AB68"
+    },
+    {
+      "class": "text",
+      "id": "946D49F2-A206-4CAF-855A-D8E2CFF62B54"
+    },
+    {
+      "class": "group",
+      "id": "C92D8AD2-C74F-4F99-AFD8-E7BC1DE07E88"
+    }
+  ],
+  "name": "EndsIn/EndsOut",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C9A26FB1-04BD-4078-9857-83B3A6BFA6BB",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

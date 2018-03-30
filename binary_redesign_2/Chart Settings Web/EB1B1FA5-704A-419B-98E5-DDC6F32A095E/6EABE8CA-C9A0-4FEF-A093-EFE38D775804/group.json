@@ -1,0 +1,74 @@
+{
+  "_class": "group",
+  "do_objectID": "6EABE8CA-C9A0-4FEF-A093-EFE38D775804",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E5659CA9-9D4C-4E56-8957-DEFBA4FD8E2E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0392E2AD-6E6A-4189-A9C5-D2CDFE12203B",
+    "height": 64,
+    "width": 255,
+    "x": 16,
+    "y": 80
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "BD717C2B-A298-4D13-9038-EB5B0BA5D03A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FE9EB633-71C9-47F5-A2F0-07CC9CD73258"
+    }
+  ],
+  "name": "Market",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BB96A7A9-CCCA-4EAF-896E-D904382ACC08",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 1,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "E1169BC7-F798-417E-8E5B-EEC34B135961",
+      "transition": 0
+    }
+  }
+}

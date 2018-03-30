@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "ADFBFB44-FE33-4A5E-9403-59BDDFE1FE4D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FE57A365-C279-4A70-910B-FAFED55E2D0B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A89227D7-D3AE-4984-8FFB-791C19D86EA8",
+    "height": 24,
+    "width": 25,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icons/ic-flag",
+  "nameIsFixed": false,
+  "originalObjectID": "82AE2279-AFE0-4AE0-995E-002D40338FE0",
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "503992AF-B09C-471E-A612-157237BEED2C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "2FD94583-360A-46D2-B886-9E9BCC53026C",
+  "verticalSpacing": 0
+}

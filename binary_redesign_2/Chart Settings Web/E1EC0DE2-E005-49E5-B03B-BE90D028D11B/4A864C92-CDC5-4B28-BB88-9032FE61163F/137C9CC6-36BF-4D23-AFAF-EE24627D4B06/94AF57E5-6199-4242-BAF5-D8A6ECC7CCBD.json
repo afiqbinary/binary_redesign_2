@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "94AF57E5-6199-4242-BAF5-D8A6ECC7CCBD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C5237DA0-3840-4057-AE07-8F970B807526",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8238D336-AF7D-4468-8F89-CA296F00D097",
+    "height": 32,
+    "width": 56,
+    "x": 0,
+    "y": 22
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "elements/buttons/purple stroke",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "39DA74F0-5538-4E73-ABB1-6287575FAF02",
+      "overrideName": "46196E38-FABE-429B-8D71-E57956852745_stringValue",
+      "value": "PNG"
+    }
+  ],
+  "overrides": {
+    "46196E38-FABE-429B-8D71-E57956852745": "PNG"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "12913163-1E82-4401-A838-0189C5FABB4E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "C87E0062-022D-4CE8-B422-B2218714CD8F",
+  "verticalSpacing": 0
+}

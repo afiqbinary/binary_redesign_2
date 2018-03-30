@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "0B39BFFB-7CA7-4EAF-8D75-92ECF3F230E8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F85E6575-25D7-448F-9211-24468760E58B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "50E87077-378F-4C54-A100-2F659EAF7978",
+    "height": 16,
+    "width": 16,
+    "x": 8,
+    "y": 8
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icons/system/google/trade/ic_monetization_light",
+  "nameIsFixed": true,
+  "originalObjectID": "90806B52-0590-4E3B-B41B-A5B67754391A",
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "324FED10-5134-4448-9209-63CA734B80A2",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "D3A3E46C-E2C0-461B-84B6-393C72E2596D",
+  "verticalSpacing": 0
+}

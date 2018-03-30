@@ -1,0 +1,55 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "B4393C22-CAF7-4D32-8EF7-0F45E03E993E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5DF0A1BE-A863-4578-A1BA-C9F436B85399",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CF3D037A-1047-49FE-B22B-AD717B6C6D67",
+    "height": 32,
+    "width": 344,
+    "x": 0,
+    "y": 104
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "period",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "17464B49-A32C-4FA4-A55A-06249FC3A288_stringValue",
+      "value": "Period"
+    }
+  ],
+  "overrides": {
+    "17464B49-A32C-4FA4-A55A-06249FC3A288": "Period"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7A0CB96D-7FBD-40D6-A547-120F45A78BAA",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "FD5D3384-6E5A-446F-B3C5-5FD34C818EC7",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,74 @@
+{
+  "_class": "group",
+  "do_objectID": "FFA685D8-DD14-48DA-827C-B46F8256A793",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ACC12D96-CB54-47D2-B258-6B95AA907E98",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2DFECDA2-7577-42A1-885C-0EA506FFE847",
+    "height": 32,
+    "width": 32,
+    "x": 236,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3C2229CF-32FD-41B2-972D-28DBEE2059E6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "34916486-5D42-4477-A45C-DEFCA2278287"
+    }
+  ],
+  "name": "btn-copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "079A43DD-C360-4899-A55F-ED65B6110253",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 1,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "64B418E2-36CA-435A-BFCE-00F0B279175C",
+      "transition": 0
+    }
+  }
+}

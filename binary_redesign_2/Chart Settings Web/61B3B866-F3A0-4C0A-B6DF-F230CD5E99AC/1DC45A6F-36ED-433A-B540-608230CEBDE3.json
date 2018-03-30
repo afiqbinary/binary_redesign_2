@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "1DC45A6F-36ED-433A-B540-608230CEBDE3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4C3168C9-7D0F-4203-BA6C-2E3B3ABC792A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "442CB205-B282-4D92-81DA-D85B97F5A95A",
+    "height": 40,
+    "width": 320,
+    "x": 748,
+    "y": 80
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Alert/Default/Error",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "11198405-320A-434F-AB4D-C0693DDEE83D",
+      "overrideName": "09744849-AF9D-414B-866B-FCB3583A241D_stringValue",
+      "value": "Deleted \"Template-1\"."
+    }
+  ],
+  "overrides": {
+    "09744849-AF9D-414B-866B-FCB3583A241D": "Deleted \"Template-1\"."
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CF7CF46A-976E-4800-8A27-4999019641A4",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "363463ED-3607-4027-9F6A-430B90B06A0C",
+  "verticalSpacing": 0
+}

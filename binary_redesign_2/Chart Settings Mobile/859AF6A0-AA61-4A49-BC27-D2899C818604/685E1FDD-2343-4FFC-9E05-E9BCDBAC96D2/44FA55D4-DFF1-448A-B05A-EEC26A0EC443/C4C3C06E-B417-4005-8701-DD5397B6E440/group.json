@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "C4C3C06E-B417-4005-8701-DD5397B6E440",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0E9D50C9-8EF1-4B8B-9B4B-56604F1ACDB5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9110A263-85A8-4A10-8687-482C2E9BD70E",
+    "height": 32,
+    "width": 268,
+    "x": 0,
+    "y": 22
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C303ECF9-0DD3-4B8B-BE04-B8EB0B07B53E"
+    },
+    {
+      "class": "group",
+      "id": "FFA685D8-DD14-48DA-827C-B46F8256A793"
+    },
+    {
+      "class": "text",
+      "id": "13DFC4E4-9CDA-454C-AD49-7835A2B55127"
+    }
+  ],
+  "name": "txtfield-sharelink",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CE03E30B-E7B8-49B5-9729-8082E3D82654",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

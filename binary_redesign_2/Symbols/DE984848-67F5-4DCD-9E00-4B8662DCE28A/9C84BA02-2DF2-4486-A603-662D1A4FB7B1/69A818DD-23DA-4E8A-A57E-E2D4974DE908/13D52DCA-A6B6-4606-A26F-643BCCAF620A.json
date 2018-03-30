@@ -1,0 +1,100 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "13D52DCA-A6B6-4606-A26F-643BCCAF620A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 95,
+    "width": 62,
+    "x": 182,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Contact 3",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "E629E043-0C3D-43A6-B162-909CAD5125D4_stringValue",
+      "value": "Natalia"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "677DA48F-3F8E-48B8-AB8D-863C786878D5_stringValue",
+      "value": "NB"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "87F7AF3E-EE1A-46B2-9AFC-DBBBC683545C_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/2f4951ac3603375ff2fcd26420a68318b422a7aa",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A629B925-3484-4427-B1E0-14B3C2BCF9EA_stringValue",
+      "value": "MN"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "85E56E34-1D06-4648-BA76-65A1052637CD",
+      "overrideName": "97ECEA35-6B0A-4AD8-83B2-E69693F50BDC_stringValue",
+      "value": "iPad"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "15E40EE9-84AE-4A16-9215-4D57A3483C16",
+      "overrideName": "D1CA6980-BA04-47DF-B985-E1685C52D1A4_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/6c1523d178dd58057e1031b0eee0cd64df8e38b1",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "overrides": {
+    "677DA48F-3F8E-48B8-AB8D-863C786878D5": "NB",
+    "87F7AF3E-EE1A-46B2-9AFC-DBBBC683545C": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/2f4951ac3603375ff2fcd26420a68318b422a7aa",
+      "_ref_class": "MSImageData"
+    },
+    "97ECEA35-6B0A-4AD8-83B2-E69693F50BDC": "iPad",
+    "A629B925-3484-4427-B1E0-14B3C2BCF9EA": "MN",
+    "D1CA6980-BA04-47DF-B985-E1685C52D1A4": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/6c1523d178dd58057e1031b0eee0cd64df8e38b1",
+      "_ref_class": "MSImageData"
+    },
+    "E629E043-0C3D-43A6-B162-909CAD5125D4": "Natalia"
+  },
+  "resizingConstraint": 41,
+  "resizingType": 3,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B0A91487-ADC5-42D7-BE31-EEA5A8F782A6",
+  "verticalSpacing": 0
+}

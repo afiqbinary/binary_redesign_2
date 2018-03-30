@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "1B2653BE-8C4D-4F6D-B79F-750FA717AF48",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "96357C63-4B44-4366-8D62-76E022F38BF4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2B14238D-1D92-4C18-87BA-8D609E4121D2",
+    "height": 258,
+    "width": 320,
+    "x": 0,
+    "y": 310
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Keyboards/Keyboard + Suggestions",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6EEE2F20-0184-487B-A5E6-071AC4242BE8",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F0F997D8-D1DC-4BFD-8F83-5AF4D20EA676",
+  "verticalSpacing": 0
+}

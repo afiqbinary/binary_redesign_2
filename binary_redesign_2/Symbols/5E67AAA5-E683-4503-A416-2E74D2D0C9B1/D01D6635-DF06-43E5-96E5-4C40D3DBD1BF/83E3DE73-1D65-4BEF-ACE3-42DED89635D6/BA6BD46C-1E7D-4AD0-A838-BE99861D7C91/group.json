@@ -1,0 +1,87 @@
+{
+  "_class": "group",
+  "do_objectID": "BA6BD46C-1E7D-4AD0-A838-BE99861D7C91",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A2645C36-BF00-4256-9046-D2BCE070A2A9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "1BE4DE81-ED56-44AF-9693-DD5427097D6C",
+    "height": 245,
+    "width": 327,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "0A345833-019E-4723-9824-4D7A7EE34840"
+    },
+    {
+      "class": "group",
+      "id": "60082160-61C8-418B-9079-C769CA72F295"
+    },
+    {
+      "class": "group",
+      "id": "9D32486E-F39E-4036-B97F-7B79A5CA8964"
+    },
+    {
+      "class": "group",
+      "id": "14E9625D-DF47-47EF-8972-FB2676117785"
+    }
+  ],
+  "name": "chart",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "16928AC9-0A38-450F-99B5-599C4D8AD096",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 18.02973977695167,
+      "type": 0
+    },
+    "do_objectID": "D2F742C6-6CD3-4C37-B752-E89B40F300B6",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

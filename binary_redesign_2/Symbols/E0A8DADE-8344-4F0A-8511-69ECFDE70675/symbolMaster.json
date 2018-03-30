@@ -1,0 +1,88 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "D0688A0C-98E0-4411-8FB0-24CBC2355E05",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 260,
+  "do_objectID": "E0A8DADE-8344-4F0A-8511-69ECFDE70675",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4CC884F3-68C5-4768-873B-6B2EE99A8083",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "37960EA3-2C74-4FCB-8DC4-10D0DBD89418",
+    "height": 24,
+    "width": 24,
+    "x": 22732,
+    "y": 3528
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "334D0330-E1B0-49A6-9A62-049A79B3B8D8",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "18B83547-F01C-4739-9D45-B62543290350"
+    }
+  ],
+  "name": "icons/system/light/chart settings/crosshair/ic-crosshair-active-bg",
+  "nameIsFixed": true,
+  "originalObjectID": "BA4E25B7-9D2E-4BEF-8012-7652841F21F2",
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CD16AEC9-F5D9-4606-8D8D-B33468C5E965",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "19795C42-4C73-4083-91A7-8BFC4BB16AB9",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B434138C-4FAE-432F-9EC9-B7E157150F45",
+    "guides": [
+    ]
+  }
+}

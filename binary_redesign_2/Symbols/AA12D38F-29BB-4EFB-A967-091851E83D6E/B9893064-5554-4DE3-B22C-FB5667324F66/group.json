@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "do_objectID": "B9893064-5554-4DE3-B22C-FB5667324F66",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "68735B73-68B7-4901-A03B-11C257393CB2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7D31B93E-2AA5-4308-BC9D-E13835966F1E",
+    "height": 16,
+    "width": 16,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4897DABE-398C-48F9-9C35-BD407734B309"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "43B7328C-0198-409A-AC9D-E9BF0164D4EF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4A486EFC-D1AA-4BB3-8F6E-51AF34E63B52"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D2937607-E588-4846-B611-E31209A5B653"
+    }
+  ],
+  "name": "binary/icons/Differs/Differs On",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3D7936E5-95D8-4196-BCDE-1EBFECBF15D7",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

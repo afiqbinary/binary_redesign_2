@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C97504FA-E1A3-48F1-8F68-5D6A4F4C3D02",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "058AB816-E91A-49F0-AC2C-B65575406545",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F2C19CB9-34F6-4915-A720-4A400D9E56C8",
+    "height": 48,
+    "width": 48,
+    "x": 24,
+    "y": 14
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icons/system/binary/trade type/rise_white",
+  "nameIsFixed": false,
+  "originalObjectID": "A4EFA758-7BDF-4E22-99F8-EBE98F14665D",
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "97B104AE-EAC3-44AC-B489-C5676E961043",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "5253CF1A-20F6-4C51-9E55-824B1CB53FF9",
+  "verticalSpacing": 0
+}

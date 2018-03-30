@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "ED842994-9219-42B5-AF9D-070BF739D636",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B9D89DB4-C9A9-427E-A0A2-4B2D7D9A77B7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E1B43281-DEAA-4302-9F98-0F3634F4F97C",
+    "height": 32,
+    "width": 490,
+    "x": 289,
+    "y": 692
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "elements/chart settings/flat 2 active",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3D0C2783-9A50-4750-9574-50C30859A17F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "5E02F7BF-84FF-4AE9-8DF4-3435E67FBD3F",
+  "verticalSpacing": 0
+}

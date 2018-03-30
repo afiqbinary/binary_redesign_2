@@ -1,0 +1,116 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "5251AEB4-C0C6-4109-9098-B8A8F7655593",
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "E1EC0DE2-E005-49E5-B03B-BE90D028D11B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E2A7CE8D-766E-4366-8118-2498798AEEF2",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2B55B9C7-4E8A-4FF9-B06A-B9736FAEE40C",
+    "height": 803,
+    "width": 1440,
+    "x": 737,
+    "y": 22542
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "626C112B-3B11-43E2-8A49-ABED6D79FA1E",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E091E89F-15FB-4236-A6BC-EFF5F771A713"
+    },
+    {
+      "class": "group",
+      "id": "4082EFA6-30ED-4DE1-875E-CF3254440472"
+    },
+    {
+      "class": "group",
+      "id": "4A864C92-CDC5-4B28-BB88-9032FE61163F"
+    },
+    {
+      "class": "group",
+      "id": "75A287DF-370D-4402-A4C4-E6E4E2D74841"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B4E95EE8-D744-4235-B25C-65B6A824A5E0"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 96,
+    "do_objectID": "6711F8D3-102E-41B2-8C0C-4764EED20D59",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 24,
+    "guttersOutside": false,
+    "horizontalOffset": 12,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1416
+  },
+  "name": "7-5. Hover Download Png",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7D4D610C-93AF-45F6-B58A-04801C75A92B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "CD3F164C-1C2E-42D0-BAF4-512598183A8E",
+    "guides": [
+    ]
+  }
+}

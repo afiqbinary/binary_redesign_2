@@ -1,0 +1,116 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "B19D06A1-6FAB-4B3A-B320-72CE95E896C9",
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "B45F7B0C-58CC-43C7-8C40-1899982B7D53",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B9F5BE07-923F-430D-812D-002C8915A38B",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "53218BBD-344C-4ECF-A308-A00C4F62D4AA",
+    "height": 803,
+    "width": 1440,
+    "x": 4366,
+    "y": -7535
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "FF599430-D555-406D-891D-BAC75DACC3F7",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3CA63EB9-698C-4A98-9965-98E92BC3B21C"
+    },
+    {
+      "class": "group",
+      "id": "D8C7FD4B-5841-4531-BB53-E892F918DE8E"
+    },
+    {
+      "class": "group",
+      "id": "8E25D7A2-02E5-4EF2-882B-4CEA86226060"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CBE5147F-8C03-4C4C-9303-0321B63D027E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7ED0843D-BA69-4DCB-BB69-7982D503515E"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 96,
+    "do_objectID": "F124FAAF-B11A-45C6-9E70-8EAF37DDBEFE",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 24,
+    "guttersOutside": false,
+    "horizontalOffset": 12,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1416
+  },
+  "name": "3-7.indicator chande kroll stop hover",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FDE45A59-5969-4E63-9F4E-B31BF94B35AA",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "120D6611-E43C-4E42-B119-ECD17C1F1C10",
+    "guides": [
+    ]
+  }
+}

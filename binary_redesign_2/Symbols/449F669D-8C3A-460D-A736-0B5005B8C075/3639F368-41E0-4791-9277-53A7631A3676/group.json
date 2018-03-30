@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "do_objectID": "3639F368-41E0-4791-9277-53A7631A3676",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1897629A-234F-4B4A-ACD3-44A44054FBA7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3BB67897-EFCF-4D7A-B8E5-0AEE3F096DAE",
+    "height": 16,
+    "width": 16,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": true,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "BBAACD20-34E5-49C8-BE46-E36E6D0FA5C9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "78C314FD-03A1-4BBA-9E92-CD4C081DB3B5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DEA25F15-A389-4136-A69D-C637C3549B71"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6D3E0EC0-8197-4AD6-A116-D4E685F77CE7"
+    }
+  ],
+  "name": "binary/icons/Digit under/Digit Under Off",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D49CF3C2-EFC4-4DA6-8644-8535B09FBE1A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

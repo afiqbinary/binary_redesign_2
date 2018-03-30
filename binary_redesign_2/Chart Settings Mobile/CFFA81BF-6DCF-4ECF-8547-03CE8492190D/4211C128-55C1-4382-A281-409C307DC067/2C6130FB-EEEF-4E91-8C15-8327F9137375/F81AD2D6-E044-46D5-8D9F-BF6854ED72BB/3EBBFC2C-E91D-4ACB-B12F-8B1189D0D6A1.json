@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "3EBBFC2C-E91D-4ACB-B12F-8B1189D0D6A1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7AB0171D-0232-4B96-951B-8D2E9594B41A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "30303BF7-F599-4830-AB29-4C1F3AD57D56",
+    "height": 40,
+    "width": 302,
+    "x": -1,
+    "y": -1
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Subtitle",
+  "nameIsFixed": true,
+  "originalObjectID": "114C647E-19E0-4F54-94AC-6245F07CB652",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "FB6C28CE-1B65-44AD-AB0A-94835B347C83_stringValue",
+      "value": "Asia/Oceania"
+    }
+  ],
+  "overrides": {
+    "FB6C28CE-1B65-44AD-AB0A-94835B347C83": "Asia/Oceania"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C6D57796-9533-413F-BE48-8953926E8721",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "BF961724-C47E-45C9-8ADA-D170E74708FB",
+  "verticalSpacing": 0
+}

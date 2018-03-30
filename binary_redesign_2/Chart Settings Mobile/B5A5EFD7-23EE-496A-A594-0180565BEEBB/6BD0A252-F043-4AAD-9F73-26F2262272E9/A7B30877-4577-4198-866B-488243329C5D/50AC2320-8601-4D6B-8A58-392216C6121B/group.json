@@ -1,0 +1,84 @@
+{
+  "_class": "group",
+  "do_objectID": "50AC2320-8601-4D6B-8A58-392216C6121B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6154AFE1-7085-46E1-99E2-8E906A737128",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "34D40514-E3FF-4961-B50E-59200904F184",
+    "height": 350,
+    "width": 300,
+    "x": 10,
+    "y": 588
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3C5F6A03-EF86-4486-9D69-FBD397C5E84D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1EAF31E8-A2A6-4C62-807A-7BCA18EB607A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A742B9F0-FF02-4061-817E-52D0D4B01627"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D22DF03A-E73A-420E-9F13-CEFF00949142"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A3111AFC-8C77-4BB1-BCF0-E34198E4EDE9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "046FB1EB-5BBC-4807-B976-202829E6A2A2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "964805B4-A4A7-4318-8AC7-D7CF1B0BD8F9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3A59496C-BAE1-4954-817F-7DAD04059D9F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6570BFDF-463F-42D2-8BC9-6FF4CC550DA0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4C4ABB73-C65D-46C2-A247-3A3B4EA268EE"
+    }
+  ],
+  "name": "uk",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3D82DF9E-00EB-413A-BFD9-99A21E737387",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

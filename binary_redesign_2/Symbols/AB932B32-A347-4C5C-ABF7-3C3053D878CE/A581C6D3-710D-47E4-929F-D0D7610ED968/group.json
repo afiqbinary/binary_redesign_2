@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "A581C6D3-710D-47E4-929F-D0D7610ED968",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "65742284-6B26-4355-AE36-93C712047D1E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "35E9ED17-A95D-4CDF-BAB8-F1262F126D12",
+    "height": 16,
+    "width": 16,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "94FE15F3-AB8B-47C2-BC58-0151A17B8FE8"
+    },
+    {
+      "class": "group",
+      "id": "0BBC9481-06C7-4AAA-AD5E-00791BF448BB"
+    },
+    {
+      "class": "group",
+      "id": "CF5C39FC-1F18-4248-A098-302376F92FD6"
+    }
+  ],
+  "name": "binary/icons/lower/lower off",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AE8C5D5C-D02F-4548-BF62-26DCFA471B13",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

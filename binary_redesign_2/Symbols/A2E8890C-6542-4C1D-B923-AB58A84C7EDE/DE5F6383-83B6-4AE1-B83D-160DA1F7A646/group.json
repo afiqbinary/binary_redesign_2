@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "do_objectID": "DE5F6383-83B6-4AE1-B83D-160DA1F7A646",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AA1CFD3D-20D1-4C7D-8B2D-BDA944BC13F5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C0F01775-19B2-4697-ADD4-2CE452127AFA",
+    "height": 16,
+    "width": 16,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "23673157-6250-4C1A-AA67-E0AB6290CCB6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "17A60FDB-85EB-4C0A-9CE5-4399E4AFF429"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CEF0999B-4214-478F-A067-0125A706EB3A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3EC5AC95-6683-4469-A53B-6A32EF2E9174"
+    }
+  ],
+  "name": "binary/icons/No Touch/No Touch on",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "336625E9-6261-4AE1-97A0-5CD2EF510062",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

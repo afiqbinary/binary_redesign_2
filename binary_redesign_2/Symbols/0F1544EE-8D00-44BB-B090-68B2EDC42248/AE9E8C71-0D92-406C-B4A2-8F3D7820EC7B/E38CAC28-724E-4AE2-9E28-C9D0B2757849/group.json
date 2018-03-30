@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "do_objectID": "E38CAC28-724E-4AE2-9E28-C9D0B2757849",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F3BCBA88-C687-44B9-B159-DCB7B70664E3",
+    "height": 9,
+    "width": 2,
+    "x": 2,
+    "y": 9
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "606B2679-7ECD-487C-A806-2998A3572ECA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D10CCA64-8686-459F-A6B0-F01E9BF09D18"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EF6EAE70-66B2-4FFE-A011-F4514A238DCA"
+    }
+  ],
+  "name": "pillar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "769FAA40-E0A4-4DAC-AC35-38F9F2A4B52B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

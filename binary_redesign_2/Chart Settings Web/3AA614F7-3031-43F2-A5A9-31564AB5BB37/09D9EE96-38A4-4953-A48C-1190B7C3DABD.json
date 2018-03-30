@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "09D9EE96-38A4-4953-A48C-1190B7C3DABD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9F6C22D0-95FC-4599-88EE-66C91886D3AD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9B2495C2-1FD0-49FE-B74D-E76FC339A46E",
+    "height": 39,
+    "width": 108,
+    "x": 579,
+    "y": 437
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "elements/Tooltip/top/1 line without icon",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EE8D5337-0DE1-4E7E-913A-FBD7C379E450",
+      "overrideName": "8038C44F-A357-4AE4-887D-882B8EDBC041_stringValue",
+      "value": "Save as template"
+    }
+  ],
+  "overrides": {
+    "8038C44F-A357-4AE4-887D-882B8EDBC041": "Save as template"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B0FE1B73-106A-40CC-88ED-CA334B820BF4",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "D0744DF7-FC4F-464F-8141-776EA4C7AC6B",
+  "verticalSpacing": 0
+}

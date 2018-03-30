@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "76D75934-7966-4D74-99E7-7AF9EE61B1A2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C18C3460-DB18-40A0-8160-D6016031BFF2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1B1CD947-844C-40EA-8F73-CBF1FDC7FBCA",
+    "height": 40,
+    "width": 90,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "menu-1",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B182B5D9-D749-4334-85B7-9080C272849C",
+      "overrideName": "34781E6B-FEE7-4290-A380-5C2A3C0D92C9_stringValue",
+      "value": "Tick"
+    }
+  ],
+  "overrides": {
+    "34781E6B-FEE7-4290-A380-5C2A3C0D92C9": "Tick"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4DE35BE2-BBC7-4582-BF66-DE1008AD7700",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "AF486A77-8CC1-424A-B84A-61EA6AC1E5AE",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "1F51EA70-8D47-42BF-A02B-8CEF23FC40A3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E03A9A94-FCA5-47B4-AEF8-036DBC66D0C7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "83716E52-D7AE-43A9-895D-59F77929C759",
+    "height": 40,
+    "width": 368,
+    "x": -1,
+    "y": -1
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Subtitle",
+  "nameIsFixed": true,
+  "originalObjectID": "114C647E-19E0-4F54-94AC-6245F07CB652",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "FB6C28CE-1B65-44AD-AB0A-94835B347C83_stringValue",
+      "value": "OTC Indices"
+    }
+  ],
+  "overrides": {
+    "FB6C28CE-1B65-44AD-AB0A-94835B347C83": "OTC Indices"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "30999757-85DB-4707-AF72-10A714FCA58B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "BF961724-C47E-45C9-8ADA-D170E74708FB",
+  "verticalSpacing": 0
+}

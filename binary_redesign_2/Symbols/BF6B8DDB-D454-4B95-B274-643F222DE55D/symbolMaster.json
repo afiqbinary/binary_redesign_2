@@ -1,0 +1,78 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "109BEC24-B088-4884-8D4D-1DDFAFAACF6F",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 53,
+  "do_objectID": "BF6B8DDB-D454-4B95-B274-643F222DE55D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B2724A50-8A0C-46FB-A4FE-C3B861B088D8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "14C7EBF1-46B2-445B-B371-A72BD31AEABA",
+    "height": 16,
+    "width": 32,
+    "x": 22732,
+    "y": 10392
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "EC6247AF-971C-4218-BC43-56490A3A08AB",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "A69122E7-D2CE-4154-9DEE-62E3352A2A0D"
+    }
+  ],
+  "name": "icons/system/light/market open/ic-market-open-line",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "347863FE-8148-46A0-9A0F-789B76180DB8",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "5F170713-63ED-4574-82B4-D15F4BF8D15E",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "77E63C0D-D67A-48E2-BA33-92C8938DE9A7",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "6D123664-2B2C-47C1-B880-28752F93CC4F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DBC1426A-A1CF-4198-BCAB-16D49C4D985B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1DDC5705-D8CE-4BAB-A974-385D7B47E8A8",
+    "height": 10,
+    "width": 10,
+    "x": 186,
+    "y": 11
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "elements/slider/active",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "014433AC-F0C6-4F35-A8FB-51861D4AF50D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "A9AF5E11-337D-422C-894C-3B20FCC3DE49",
+  "verticalSpacing": 0
+}

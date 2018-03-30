@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "53E78BAB-61DF-4BAE-91DB-071E13E00B3B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "553BA18C-C247-43AB-9759-49F42AC47441",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "27675DCC-F6EE-4DB8-BE98-E92E575764F6",
+    "height": 77,
+    "width": 300,
+    "x": 10,
+    "y": 666
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "135F1DE2-BCFD-4FBD-99AA-10F4151B6501"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A2C91EA6-5666-495C-AF88-32BDBC88A764"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FF30F570-E1F7-4FCF-9E2C-10F28310DF17"
+    }
+  ],
+  "name": "middle east",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9E531C32-E29F-4090-8643-7F0BD84556EB",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

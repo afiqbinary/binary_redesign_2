@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "261F82E9-65B9-4B42-B912-CC1B5C712521",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0E8B67D1-DD84-40B4-B4F5-2FE014D8D3F0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "59D91EDD-A883-4DE7-8B59-E6D67194317B",
+    "height": 64,
+    "width": 184,
+    "x": 533,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7EC4895A-5318-4D7B-8223-E3B3BB29A4BE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7BF9B19C-851A-4659-98F3-4D333A3CA71D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "63FF7538-05A0-46D1-88E8-C069A767AC32"
+    }
+  ],
+  "name": "undo redo control",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "98F2225D-D588-4FD0-A053-56FD067B6D30",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

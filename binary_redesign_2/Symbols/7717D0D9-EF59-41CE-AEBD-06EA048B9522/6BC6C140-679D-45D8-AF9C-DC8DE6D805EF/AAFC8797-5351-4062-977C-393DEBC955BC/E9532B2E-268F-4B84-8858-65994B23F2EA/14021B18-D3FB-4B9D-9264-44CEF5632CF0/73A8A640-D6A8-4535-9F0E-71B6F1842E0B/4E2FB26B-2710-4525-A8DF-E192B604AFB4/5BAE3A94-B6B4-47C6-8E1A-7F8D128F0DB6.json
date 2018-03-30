@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "5BAE3A94-B6B4-47C6-8E1A-7F8D128F0DB6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C27DBE7B-68D8-46B6-A0D1-7FA330282E71",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "58170D94-B81F-49C3-ABE4-C359058384C2",
+    "height": 16,
+    "width": 16,
+    "x": 51,
+    "y": 20
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icons/system/google/trade/ic_trending_up",
+  "nameIsFixed": false,
+  "originalObjectID": "7EE53A50-80BA-4C84-9674-1020DFF34D7C",
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EDBB546A-FD3C-49E1-BFEC-1FE3FA6B592C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "83B3677F-917E-4F21-B453-4C3B2B45E7BF",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "BF645E8A-0EA9-4D70-A72F-B5711ECAD49F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "26936BEA-E2FC-4E0A-8E4E-8DAA2A4A4CD5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "ABFD4913-64DA-47AE-B7F0-94C81D13E1D7",
+    "height": 54,
+    "width": 120,
+    "x": 14,
+    "y": 127
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "E7AA39D4-35F7-4384-8379-BDC0F004046D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B4C5DDC6-6950-46D3-A249-620C68BD0DC1"
+    },
+    {
+      "class": "text",
+      "id": "651B57CE-9665-4935-97FE-664C1BE81B08"
+    }
+  ],
+  "name": "download",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BA4D51EF-1327-4ED8-AA4F-519671BA2423",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

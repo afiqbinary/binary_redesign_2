@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "E85DFF75-1A44-47A9-A04B-E5428EF61C43",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A09C7862-0A48-427C-9C61-93596A9066C3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C4D4790B-7F23-4CD5-B0E5-59009978B8EA",
+    "height": 12,
+    "width": 16,
+    "x": 0,
+    "y": 2
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "10C3171F-C0C1-4868-B8A9-98E823C33F54"
+    },
+    {
+      "class": "group",
+      "id": "08CE3FA8-2DFE-41E9-9475-6BC12BF11081"
+    }
+  ],
+  "name": "ic-cashier-active-light",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A46FF428-49E8-4B50-804C-57E69C6D6F39",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

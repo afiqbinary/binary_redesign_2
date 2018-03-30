@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "8786C217-7554-4F3C-ACD9-D7BD54A5441F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "93586038-32C7-499D-A66E-95AF9A2498E1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F6DAA3DF-5ED4-459B-A9F4-D17BBFB9CE13",
+    "height": 32,
+    "width": 56,
+    "x": 64,
+    "y": 22
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "elements/buttons/purple stroke copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7E239BAD-E30B-4E54-BA22-04B1BC5A280A",
+      "overrideName": "46196E38-FABE-429B-8D71-E57956852745_stringValue",
+      "value": "CSV"
+    }
+  ],
+  "overrides": {
+    "46196E38-FABE-429B-8D71-E57956852745": "CSV"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6CD84B8A-7070-4FE8-9EA0-F39A18F8A358",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "C87E0062-022D-4CE8-B422-B2218714CD8F",
+  "verticalSpacing": 0
+}

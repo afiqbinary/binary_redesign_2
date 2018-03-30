@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "8AD03E85-4373-4E38-B32A-84FC7D4D8B00",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0597E0A3-8461-40AE-922B-F7ED7448A770",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0118CDE8-00F7-4791-B814-104D1336DFD7",
+    "height": 10,
+    "width": 15,
+    "x": 1,
+    "y": 2
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "221EFA03-EC39-4239-8AFE-F1BE14E199EB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6DCA8F06-5C6E-4F78-876B-EAB7E5D9F6E2"
+    }
+  ],
+  "name": "rec-cashier-card2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "98199326-EEC1-475B-A53B-7B1C5BCF12A3",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

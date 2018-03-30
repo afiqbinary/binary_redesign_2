@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "038EFA7E-9FF9-4F70-9165-FDB1C11BAF9C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0D168D5B-7E34-4A06-A371-E4051EE9DE32",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9B43A800-03E1-4396-BA33-8A09BF4F6F8C",
+    "height": 40,
+    "width": 96,
+    "x": 1271,
+    "y": 8
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "button",
+  "nameIsFixed": true,
+  "originalObjectID": "2A8485DC-3E91-4655-9CD6-29AC708BBFE5",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "04AF9E37-798B-4756-BFB4-4DFBF5A7E969_stringValue",
+      "value": "Upgrade"
+    }
+  ],
+  "overrides": {
+    "04AF9E37-798B-4756-BFB4-4DFBF5A7E969": "Upgrade"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6BF9BD7B-807E-409C-9792-0A00FF9E8932",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "C14445F1-B471-49C6-932B-5115DD9A6CE1",
+  "verticalSpacing": 0
+}

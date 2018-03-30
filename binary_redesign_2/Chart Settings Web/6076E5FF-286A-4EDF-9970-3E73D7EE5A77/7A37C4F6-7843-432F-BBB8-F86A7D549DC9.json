@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "7A37C4F6-7843-432F-BBB8-F86A7D549DC9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ECAB8B91-4F75-46A0-9633-83CDF84950CF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9D992952-D23F-4739-B7AC-FA293E4A1CDA",
+    "height": 39,
+    "width": 77,
+    "x": 438,
+    "y": 649
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "tooltip",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "079A0D12-6E8B-4CEB-9320-B5C28AD517E7",
+      "overrideName": "8038C44F-A357-4AE4-887D-882B8EDBC041_stringValue",
+      "value": "Draw Tools"
+    }
+  ],
+  "overrides": {
+    "8038C44F-A357-4AE4-887D-882B8EDBC041": "Draw Tools"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E1C153BE-2FC1-4751-9FE5-8AAF2E9B1EAD",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "D0744DF7-FC4F-464F-8141-776EA4C7AC6B",
+  "verticalSpacing": 0
+}

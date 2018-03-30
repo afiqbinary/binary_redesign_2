@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "AB86A113-02D2-4E75-9FF6-4596DA88DC9C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "350D9678-BADB-46D8-A623-28037559EE5D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8EAC5E1E-6FAC-4D1E-BBD0-8E140FE702CA",
+    "height": 77,
+    "width": 300,
+    "x": 10,
+    "y": 751
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "19B9E816-9330-4C7F-B994-3709A435D92A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "75990D83-B18D-46DD-BBD4-40FC0F7FC0AD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A1C3A491-0CCE-471C-8985-4BCA9F394FE5"
+    }
+  ],
+  "name": "americas",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6D041CFE-0A55-4CB2-91AC-053B18EF78C4",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

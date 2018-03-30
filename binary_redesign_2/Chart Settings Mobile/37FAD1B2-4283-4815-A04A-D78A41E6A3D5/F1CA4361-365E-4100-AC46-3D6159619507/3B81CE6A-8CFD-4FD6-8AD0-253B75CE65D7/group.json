@@ -1,0 +1,48 @@
+{
+  "_class": "group",
+  "do_objectID": "3B81CE6A-8CFD-4FD6-8AD0-253B75CE65D7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "99543338-9ED8-4613-B026-70C621CCA850",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BEE92D14-95A7-4574-B718-3297BC3AB4E9",
+    "height": 24,
+    "width": 24,
+    "x": 98,
+    "y": 8
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "B9711FDD-374E-43E9-8503-34455D624684"
+    }
+  ],
+  "name": "ticks",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "007B23DC-92BD-4B4C-BF94-BCD0F4B90C8D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

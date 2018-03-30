@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "459F18A1-A8A6-42EC-9D0F-5225A673F0AF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8BEB4DF4-2757-4D39-9517-445ED25D7368",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "84A56F2D-CFDD-440A-8B92-E6DA9736A566",
+    "height": 9,
+    "width": 2,
+    "x": 18,
+    "y": 9
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D92CFAEC-E38D-4029-9FBA-5A593D947E27"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1A442A57-2CD0-4D18-B9C4-FD3C6DEE2CDB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "65EA01B5-C5D8-465F-94B5-989BFD54AD84"
+    }
+  ],
+  "name": "pillar copy 3",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0DFA97A9-94D8-492E-AE71-F50455B7DABF",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

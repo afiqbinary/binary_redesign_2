@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "E443DA69-903A-4527-95A2-9698AAAAC980",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E87A5B14-4B62-4D9B-93B0-008DEF7D1B13",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A79559C8-657C-471A-AB93-2EA355549B54",
+    "height": 40,
+    "width": 72,
+    "x": 96,
+    "y": 12
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "elements/buttons/blue/tertiary/normal copy",
+  "nameIsFixed": false,
+  "originalObjectID": "78E923AE-98A6-49A6-8B21-4D770E728FAC",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "B1FA7810-8971-4B02-A491-34DA7BCA88D6_stringValue",
+      "value": "Redo"
+    }
+  ],
+  "overrides": {
+    "B1FA7810-8971-4B02-A491-34DA7BCA88D6": "Redo"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "36978ACE-13F0-4B53-B57B-E34C848CE6F9",
+      "opacity": 0.32
+    },
+    "do_objectID": "A09B105E-AB1B-472D-BF63-3F09BFFC4804",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "BCD76950-F6B3-4473-B867-7958B8868076",
+  "verticalSpacing": 0
+}

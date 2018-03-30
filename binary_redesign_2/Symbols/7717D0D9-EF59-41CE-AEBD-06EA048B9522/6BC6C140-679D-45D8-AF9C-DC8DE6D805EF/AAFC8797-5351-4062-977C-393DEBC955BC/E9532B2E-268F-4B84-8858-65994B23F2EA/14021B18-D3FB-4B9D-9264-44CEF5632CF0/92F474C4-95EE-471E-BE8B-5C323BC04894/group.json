@@ -1,0 +1,84 @@
+{
+  "_class": "group",
+  "do_objectID": "92F474C4-95EE-471E-BE8B-5C323BC04894",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "499AEA4F-C095-4BA6-84F7-B27F330EB5AB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "754B171D-F8F8-4E23-AB66-AA6B59B0D410",
+    "height": 96,
+    "width": 96,
+    "x": 247,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A8A6110F-5254-4F1D-A5B8-52AB6A882B8C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E3F28275-4576-4641-98FC-0AB3A5DEAA36"
+    },
+    {
+      "class": "text",
+      "id": "9B7ECD68-9DE3-42E8-9CBC-76525ED40E0C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C97504FA-E1A3-48F1-8F68-5D6A4F4C3D02"
+    }
+  ],
+  "name": "Buttons/okay",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1FE81A2C-D642-40E1-8DCA-2666D735773F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 10,
+        "color": {
+          "_class": "color",
+          "alpha": 0.3,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 0,
+        "offsetY": 6,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "userInfo": {
+  }
+}

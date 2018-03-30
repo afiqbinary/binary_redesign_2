@@ -1,0 +1,110 @@
+{
+  "_class": "group",
+  "do_objectID": "B3736CB9-BC02-424B-8C1E-FC64368B1BD4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "82412D99-9BD5-43EF-8311-0E7EC272F04C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6A496D2C-0DF2-470F-9A2E-7D05138071C5",
+    "height": 336,
+    "width": 200,
+    "x": 257,
+    "y": 348
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "983A5696-BDB5-47DC-A4BD-6BB2041C61E5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "54D80892-6F10-4CCC-976E-34C40C5B3AA8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E88275EA-1A09-46A5-B09A-C1EE463D4191"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C3755164-2926-47CD-9379-EBDF8BE465B8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BB6F0B87-3494-4DD8-9D49-9ABADDB316F1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "904DD54B-6CBC-49C8-B303-DBB52FE5CB66"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E79900D8-D71B-461A-AA63-99D332E6E356"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "317B4B0F-14DD-48CC-AE9C-458E7BB19ED3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "11428690-DA88-4309-95C0-6F6342F9AB14"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2C3F21CB-2A43-4B93-BA71-5DB00A358C45"
+    },
+    {
+      "class": "group",
+      "id": "EC9D9A2B-910C-4307-BE49-D23DE6426B60"
+    }
+  ],
+  "name": "chart style popup",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "57BFE080-BA83-465E-97F8-02BAF027C613",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 10,
+        "color": {
+          "_class": "color",
+          "alpha": 0.14,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 0,
+        "offsetY": 6,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "A31D79BE-4BC6-47A2-A219-24BDAFFA4E89",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "887DC93D-1D2C-4063-B263-2E07FE3152B8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "29B261FB-8BAC-42E0-BC41-D1A3BED7E23F",
+    "height": 30,
+    "width": 1068,
+    "x": 0,
+    "y": 92
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "148DBB5E-3330-4CF4-905F-9FCFF4B5FE98"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "19CDCBF1-B564-4CA6-89D0-09507808CFAD"
+    },
+    {
+      "class": "text",
+      "id": "BAE76D9B-8255-403A-A4B2-573AE9EDB2E4"
+    }
+  ],
+  "name": "High barrier",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DE465DC1-7C5D-40B0-BAFF-AC29E202AAE3",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

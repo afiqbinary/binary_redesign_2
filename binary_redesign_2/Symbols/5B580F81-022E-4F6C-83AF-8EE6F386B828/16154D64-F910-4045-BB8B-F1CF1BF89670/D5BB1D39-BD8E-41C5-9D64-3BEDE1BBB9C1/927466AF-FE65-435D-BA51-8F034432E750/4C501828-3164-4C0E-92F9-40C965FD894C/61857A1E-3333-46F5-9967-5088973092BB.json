@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "61857A1E-3333-46F5-9967-5088973092BB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "309568F8-7000-42FD-8774-9EB77D30A888",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2161F006-39C6-4F6F-A1AF-E5D4695EBBCE",
+    "height": 16,
+    "width": 16,
+    "x": 4,
+    "y": 4
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "binary/icons/Touch/Touch off",
+  "nameIsFixed": false,
+  "originalObjectID": "248975E9-19DA-4131-856E-C51EC6432CAB",
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "42D1CEAC-B36E-44B5-9573-A7EC170711E1",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "8305BD89-D704-4867-8EA3-04C2722B8F1F",
+  "verticalSpacing": 0
+}

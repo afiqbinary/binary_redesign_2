@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "B8778E9A-789F-461D-AC21-852835851E20",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "01DBC5AE-F65E-4687-B9C3-3D114D6BE3A6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0FF1193B-FBFD-444D-A9AF-8340799FDCC9",
+    "height": 64,
+    "width": 257,
+    "x": 162,
+    "y": 1
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "FC510FD6-EAF5-44C7-AFBB-4B9F04E40278"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "73850354-A58E-4954-B93D-DFD41C22B6A3"
+    }
+  ],
+  "name": "Choose trade type design 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "410F3941-4783-480C-BFC8-5D8A25D99B47",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

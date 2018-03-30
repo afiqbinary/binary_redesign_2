@@ -1,0 +1,54 @@
+{
+  "_class": "group",
+  "do_objectID": "AB85CD20-F599-4134-B1FA-FDFF6B52834C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1E55D218-EF0A-4D35-8697-9951CE3D9F2E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4453DE82-0BC9-4C61-B785-25DFDCF22CA5",
+    "height": 64,
+    "width": 255,
+    "x": 16,
+    "y": 80
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "260D3299-9D51-4D61-A918-7B9B01DDC800"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "40B1B267-CC14-4253-AEB3-8CBC7E31880F"
+    }
+  ],
+  "name": "Market",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "69EE5C89-EA28-45D6-B420-A1B99C28D2AA",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+  }
+}

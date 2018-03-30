@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "9AB4E075-220F-4C41-AB48-C3E829B0894B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "12B71843-1736-41A1-BB09-F4E580CE484D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "14648395-2885-4C2F-870E-A620E968FA3B",
+    "height": 621.3333333333334,
+    "width": 1315.955056179775,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "8D87CF9D-47D7-4F73-9005-FFC37BCB77F8"
+    },
+    {
+      "class": "group",
+      "id": "36EBEFAB-A7E4-4524-AC11-F39A350C87D5"
+    }
+  ],
+  "name": "candle chart copies",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CD61FA26-0A96-4299-9955-930621BEDAC6",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

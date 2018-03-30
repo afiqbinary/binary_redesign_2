@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "ACDF7D23-A9D4-4C9E-9E14-39D064292834",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "533C26BD-FB32-48CC-8FEA-299BF5EC6D2E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DA4581D1-53F6-401A-AFD4-1CAE3E8AAF00",
+    "height": 460,
+    "width": 320,
+    "x": 0,
+    "y": 76
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "mobile/elements/chart/candle big",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "7B629C61-B97F-40A7-B500-F109756F5612_symbolID",
+      "value": ""
+    }
+  ],
+  "overrides": {
+    "7B629C61-B97F-40A7-B500-F109756F5612": {
+      "symbolID": ""
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B83550C8-19F9-4205-866A-304350B8D54D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "27021965-38E8-4286-8336-BA989641B890",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "FBE58174-6D8E-4502-9604-0F9A68071EA4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "13042AE0-148D-41CC-B8AE-5DCEBB7FDC44",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "978A5B6A-2238-44A5-9FB2-7F01B50CC60D",
+    "height": 16,
+    "width": 16,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icons/system/google/trade/ic_trending_down",
+  "nameIsFixed": false,
+  "originalObjectID": "02895A84-F82C-43E0-8414-A9417029AA5C",
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DD306DD2-F004-4F75-9B8B-033816F827FE",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "4510E398-10FF-4634-9C10-F3C755B42D33",
+  "verticalSpacing": 0
+}

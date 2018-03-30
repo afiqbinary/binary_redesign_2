@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "5E269D1A-82C2-48DC-9393-CE70B1DE40CB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9961026A-7D23-4871-BAB1-D6353BD6A59A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F0C8BC72-81AA-4FFF-AE7C-5DB92A88D80C",
+    "height": 16,
+    "width": 16,
+    "x": 5,
+    "y": 5
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A727D294-BCBC-4008-BF3E-9A53C956AEBB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5B08C5CE-FBFB-4D8B-9C7E-38C4B347A506"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "05C9957E-14D5-4445-8FD3-4FBA542BD5C7"
+    },
+    {
+      "class": "group",
+      "id": "D5A598E8-D0C3-4788-9B50-E0FE939CC720"
+    }
+  ],
+  "name": "binary/icons/Ends In/ Ends In On",
+  "nameIsFixed": true,
+  "originalObjectID": "411214D0-27B1-4CF9-989D-F610A69A101E",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D7FC9013-5781-4A1F-A723-CDDBB388A9F8",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

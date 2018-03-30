@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "A1A911AA-F256-49C2-8350-C8209C2CA32E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5C005B82-99CD-46B4-A4B1-C870246150A2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E5569993-B7FE-4FB1-8A4F-EF7EC9C39F5B",
+    "height": 675,
+    "width": 1068,
+    "x": 0,
+    "y": 80
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "elements/chart",
+  "nameIsFixed": false,
+  "originalObjectID": "AB5546F4-B045-4795-8F50-D8F195D0D334",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BFFD1F79-54BA-4202-973B-423099D51B90",
+      "overrideName": "DBCF4DCA-045C-4F20-BDBC-237407D8B82F/E170ED77-C114-41BE-A535-415D719B7DA8_symbolID",
+      "value": "73066302-32D2-44D7-9224-D9899BFA4399"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "74A75D90-377E-49B1-B161-59B2EB815FD3",
+      "overrideName": "DBCF4DCA-045C-4F20-BDBC-237407D8B82F/9C1A16A4-10F6-4397-BC31-370BFF7153A5_symbolID",
+      "value": "8673DE0A-9C4B-4FC9-8A26-822E65EDF084"
+    }
+  ],
+  "overrides": {
+    "DBCF4DCA-045C-4F20-BDBC-237407D8B82F": {
+      "9C1A16A4-10F6-4397-BC31-370BFF7153A5": {
+        "symbolID": "8673DE0A-9C4B-4FC9-8A26-822E65EDF084"
+      },
+      "E170ED77-C114-41BE-A535-415D719B7DA8": {
+        "symbolID": "73066302-32D2-44D7-9224-D9899BFA4399"
+      }
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "606545A0-F9AC-4131-B2EA-67AB0D12C228",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "0F730486-D076-4E59-979D-77C78BFDA22B",
+  "verticalSpacing": 0
+}

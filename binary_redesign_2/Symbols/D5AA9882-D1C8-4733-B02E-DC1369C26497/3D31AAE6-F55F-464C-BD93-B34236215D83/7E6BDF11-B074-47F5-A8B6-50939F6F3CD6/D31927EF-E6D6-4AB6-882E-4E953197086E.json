@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGb3BYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHwcIDxAcHR4fKywtLi8wMTIzOT1FRkdISUxQXWBkZ2tVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAegANYQmFycmllcnPTERIKExcbV05TLmtleXNaTlMub2JqZWN0c6MUFRaABIAFgAajGBkagAeAEYAZgBBfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZdMREgogJRukISIjJIAIgAmACoALpCYnKCmADIANgA6AD4AQU3JlZFVhbHBoYVRibHVlVWdyZWVuIz/FFRUVLvQGIz/wAAAAAAAAIz/UlJSUog4HIz/IGBgYDmR+0jQ1NjdaJGNsYXNzbmFtZVgkY2xhc3Nlc1xOU0RpY3Rpb25hcnmiNjhYTlNPYmplY3TSCjo7PF8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBiAEtMREgo+QUSiP0CAE4AUokJDgBWAFoAXXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUQDF5Sb2JvdG8tUmVndWxhctI0NUpLXxATTlNNdXRhYmxlRGljdGlvbmFyeaNKNjjSNDVNTl8QEE5TRm9udERlc2NyaXB0b3KiTzhfEBBOU0ZvbnREZXNjcmlwdG9y1wpRUlNUVVZXWFlaW1xcWk5TVGFiU3RvcHNbTlNUZXh0TGlzdHNcTlNUZXh0QmxvY2tzXxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbl8QD05TTWF4TGluZUhlaWdodF8QD05TTWluTGluZUhlaWdodIAdgACAHIAaEAEjQDIAAAAAAADSEgpeX6CAG9I0NWFiXk5TTXV0YWJsZUFycmF5o2FjOFdOU0FycmF50hIKZV+ggBvSNDVoaV8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo2hqOF8QEE5TUGFyYWdyYXBoU3R5bGXSNDVsbV8QEk5TQXR0cmlidXRlZFN0cmluZ6JuOF8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFxclRyb290gAEACAARABoAIwAtADIANwBZAF8AZgBvAHYAgwCFAIcAiQCSAJkAoQCsALAAsgC0ALYAugC8AL4AwADCAO8BEQEkASsBMAEyATQBNgE4AT0BPwFBAUMBRQFHAUsBUQFWAVwBZQFuAXcBgAGFAZABmQGmAakBsgG3AdQB1gHYAd8B4gHkAeYB6QHrAe0B7wIFAhsCHQIsAjECRwJLAlACYwJmAnkCiAKTAp8CrALOAuAC8gL0AvYC+AL6AvwDBQMKAwsDDQMSAyEDJQMtAzIDMwM1AzoDVANYA2sDcAOFA4gDnQOvA7IDtwAAAAAAAAIBAAAAAAAAAHMAAAAAAAAAAAAAAAAAAAO5"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "D31927EF-E6D6-4AB6-882E-4E953197086E",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 18,
+    "width": 42,
+    "x": 32,
+    "y": 7
+  },
+  "glyphBounds": "{{0, 4}, {42, 10}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Barriers",
+  "nameIsFixed": false,
+  "originalObjectID": "9A71D97A-3A5D-4A8E-8FC9-56A291790728",
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "3F3875FD-8D77-4778-A3F0-439807B7E679"
+  },
+  "textBehaviour": 0
+}

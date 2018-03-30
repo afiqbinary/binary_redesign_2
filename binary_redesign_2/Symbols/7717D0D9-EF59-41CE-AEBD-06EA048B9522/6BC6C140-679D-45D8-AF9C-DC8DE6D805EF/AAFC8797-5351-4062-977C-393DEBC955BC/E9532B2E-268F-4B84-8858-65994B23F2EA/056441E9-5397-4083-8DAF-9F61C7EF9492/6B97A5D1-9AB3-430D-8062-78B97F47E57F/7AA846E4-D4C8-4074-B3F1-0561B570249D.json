@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "7AA846E4-D4C8-4074-B3F1-0561B570249D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "28019B8F-B6B1-4437-A51E-85E161FE494A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9BD18E23-2C00-44FC-9185-849D1F9885C5",
+    "height": 48,
+    "width": 48,
+    "x": 24,
+    "y": 14
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icons/system/binary/trade type/fall_white",
+  "nameIsFixed": false,
+  "originalObjectID": "34F64416-31AB-4A40-A1B9-2CAECC8DA204",
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AF97BF0B-4E85-4FE5-AEE8-C8465A19C28A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "944EE350-82EB-46D5-B40A-D9264664BB51",
+  "verticalSpacing": 0
+}

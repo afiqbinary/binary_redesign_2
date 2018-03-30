@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "do_objectID": "51682F37-03E8-4719-9B79-6C732718F277",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B98858A4-1641-48AA-8575-8003EA1448F3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "67A40A03-8C48-458E-8A20-10313AEAF030",
+    "height": 32,
+    "width": 255,
+    "x": 5,
+    "y": 184
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "35359A6D-CA75-4E28-AE26-47DD9023667A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7D6209EB-66B9-4713-B10F-11B900BB53CE"
+    },
+    {
+      "class": "text",
+      "id": "9171C5CC-99CC-4E9F-9F2E-33C8CF7AEEA1"
+    },
+    {
+      "class": "text",
+      "id": "BFDCC4E0-7E6F-44F0-8311-D390BEEDDBB4"
+    },
+    {
+      "class": "group",
+      "id": "C84B8BE2-10F1-40B9-AAB8-B62F6E583B81"
+    }
+  ],
+  "name": "compare-british american tobacco",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "371BBFC9-2475-4C6C-B4CC-B7FDBAEF7395",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

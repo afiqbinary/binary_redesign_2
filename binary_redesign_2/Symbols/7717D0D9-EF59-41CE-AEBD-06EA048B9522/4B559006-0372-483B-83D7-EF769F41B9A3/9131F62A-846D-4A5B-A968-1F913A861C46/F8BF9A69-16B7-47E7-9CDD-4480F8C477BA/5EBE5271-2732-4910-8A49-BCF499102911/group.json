@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "5EBE5271-2732-4910-8A49-BCF499102911",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7715A7FE-4C72-4CE2-8EB0-FAAEA286301B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E34B84A6-9B53-403B-A196-7DF549A43A1E",
+    "height": 29,
+    "width": 305,
+    "x": 3,
+    "y": 79
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "AC5481AA-0476-46DD-B784-738974D3F312"
+    },
+    {
+      "class": "text",
+      "id": "FBEDC150-919E-4EBE-B1F7-4FA03FA79092"
+    }
+  ],
+  "name": "High Barrier Copy 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8E12A4BC-253B-4950-92EF-7D8D54116F5C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "10CE12E5-6048-4B46-97C2-2B069C651D70",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9E181B86-294D-4865-A8FC-50642E9AED36",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B43EA578-D081-48A6-9C00-40986715B8EB",
+    "height": 285,
+    "width": 931,
+    "x": 0,
+    "y": 235
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FDB98AC5-4AA1-4C3D-8024-3313EE093955"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "66B45833-61FF-44CE-99F8-C74A9236AC82"
+    }
+  ],
+  "name": "indicator chande kroll stop",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6E05133B-7202-4CA2-943D-24061A99351B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

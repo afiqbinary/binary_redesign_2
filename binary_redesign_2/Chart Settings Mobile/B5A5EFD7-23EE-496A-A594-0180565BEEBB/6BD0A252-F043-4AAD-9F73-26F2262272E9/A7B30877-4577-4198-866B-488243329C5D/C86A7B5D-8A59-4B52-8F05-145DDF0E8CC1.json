@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C86A7B5D-8A59-4B52-8F05-145DDF0E8CC1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ED7A1AA1-8291-47E2-AA11-5E00E2CA41AF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2A611C41-F20F-4B84-93EF-20345B07E928",
+    "height": 24,
+    "width": 320,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "title",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6E2B5BC8-BF16-4A70-9814-22DA1334E1EC",
+      "overrideName": "AE6D8493-7F32-4653-9FA5-F9A2BC2DC929_stringValue",
+      "value": "OTC Stocks"
+    }
+  ],
+  "overrides": {
+    "AE6D8493-7F32-4653-9FA5-F9A2BC2DC929": "OTC Stocks"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "41F24775-5413-4508-B4DC-87085FC75799",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "A22C0305-F234-40AF-A838-C8CA2D254E9C",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "C0693550-1F7D-4842-B5EC-8575B90FE72D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "62C99EBB-369A-40CB-B2CE-BCB61F9EA093",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "269A2298-F75B-45E7-B7B1-C6296CA54BD0",
+    "height": 16,
+    "width": 16,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "68A34958-BAB6-446C-950E-77FD8D6F5A6B"
+    },
+    {
+      "class": "group",
+      "id": "B900177F-4247-45BB-B064-E4800C2B4BDE"
+    },
+    {
+      "class": "group",
+      "id": "6677144F-C94E-4DA1-89FB-CD255ACF3C8E"
+    }
+  ],
+  "name": "binary/icons/fall/fall off",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "74626953-A80F-47DD-924A-45CB844A5CCE",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "_class": "group",
+  "do_objectID": "1011CEE5-2138-450A-8FF5-7D89BC13326C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FF9974D7-51B0-4DBF-B2E2-92D32F225471",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B47ABA86-055A-465E-B3A0-1025A551BF48",
+    "height": 350,
+    "width": 300,
+    "x": 10,
+    "y": 28
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5A9357FF-DCA9-415B-A488-ABEE97F510E9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C5B95EE2-D3CE-489D-B19B-79B5A35886D4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2388A6B6-FB86-4C50-B148-0C806FB4B046"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6AFC82BE-3D95-4A0B-8E0B-7799B48A065D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "46772746-7CAD-434A-ABA1-E1C5065D5684"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DFD2D4F1-1F04-40D1-9C3F-D35FE5137405"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A1AD80F5-7059-4025-BB9A-549A7194B6C0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B4BD94F7-B0FB-4381-B49C-264D3140AD26"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "80FF1582-1088-4D13-85DE-03D3299E0B8F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "59CB13FB-041F-41F0-893B-1D4A82B63D36"
+    }
+  ],
+  "name": "germany",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "92C5B898-1A78-46DF-AC6F-B58B7E4862A7",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

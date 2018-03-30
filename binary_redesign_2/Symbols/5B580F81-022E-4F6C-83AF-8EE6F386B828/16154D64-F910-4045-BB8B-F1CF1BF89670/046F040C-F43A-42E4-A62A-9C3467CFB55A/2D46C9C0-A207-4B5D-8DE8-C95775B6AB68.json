@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "2D46C9C0-A207-4B5D-8DE8-C95775B6AB68",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "45641BF8-18E5-4CF4-A588-D435F392D052",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A87FB80C-EEA1-4AF7-B297-1C2958B34053",
+    "height": 56,
+    "width": 270,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Trade Type Dropdown/inactive",
+  "nameIsFixed": false,
+  "originalObjectID": "AE91FA7A-B2AF-43EA-BE12-9730C293DD2E",
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F424EDFC-CE9A-4CD5-9B3D-148D464D0216",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "29681FC6-F6A9-4501-8C1D-B6C9CFA57DAE",
+  "verticalSpacing": 0
+}

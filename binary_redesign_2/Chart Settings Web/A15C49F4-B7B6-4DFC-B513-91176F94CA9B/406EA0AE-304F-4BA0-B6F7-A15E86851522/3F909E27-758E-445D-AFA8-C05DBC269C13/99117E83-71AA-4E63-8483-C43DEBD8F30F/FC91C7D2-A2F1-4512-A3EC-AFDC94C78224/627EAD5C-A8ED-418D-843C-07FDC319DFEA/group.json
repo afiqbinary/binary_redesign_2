@@ -1,0 +1,48 @@
+{
+  "_class": "group",
+  "do_objectID": "627EAD5C-A8ED-418D-843C-07FDC319DFEA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F91F7C34-3B0A-4657-BC20-344DFA0EB458",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A8F00C58-121A-4A20-A2A6-361854088EDE",
+    "height": 64,
+    "width": 257,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "D5CADBA6-CCF7-4574-929F-B8D41D0B4B64"
+    }
+  ],
+  "name": "Top Menu Copy 3",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "54F853B8-0A03-4F32-AFBC-8C44FAF71D6C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

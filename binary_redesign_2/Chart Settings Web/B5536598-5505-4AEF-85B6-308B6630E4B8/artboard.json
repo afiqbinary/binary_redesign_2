@@ -1,0 +1,116 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "A6EAAFB8-4B41-467A-9C05-9A88A6BFA933",
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "B5536598-5505-4AEF-85B6-308B6630E4B8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "47A554E1-BAB3-419B-9B6C-46D3F0F919B4",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D764EF27-3E39-4AB5-9362-FC0799B484B1",
+    "height": 803,
+    "width": 1440,
+    "x": 2341,
+    "y": 13778
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D4F667E2-4CB0-4AF0-B0E3-FF2A1516DF7D",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "55A7124C-B399-4130-B5B3-6D99587E6B3D"
+    },
+    {
+      "class": "group",
+      "id": "409C4F2E-6360-4592-B963-BB8A48BD1ABD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A58965F5-CB93-4132-9242-B8F9C422835A"
+    },
+    {
+      "class": "group",
+      "id": "2FCA16AF-2CFF-4F58-BDF9-502D30CDF235"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "873E9DFD-7B6F-49D0-BB3B-3FD51F72A668"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 96,
+    "do_objectID": "18087CFE-4349-4150-81B7-484CB782C576",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 24,
+    "guttersOutside": false,
+    "horizontalOffset": 12,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1416
+  },
+  "name": "5-5.dropdown border average line",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "72318665-03EF-4A79-9111-E4C8733B2A97",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3317FFE3-51DC-4DC1-A55D-FC894F033783",
+    "guides": [
+    ]
+  }
+}

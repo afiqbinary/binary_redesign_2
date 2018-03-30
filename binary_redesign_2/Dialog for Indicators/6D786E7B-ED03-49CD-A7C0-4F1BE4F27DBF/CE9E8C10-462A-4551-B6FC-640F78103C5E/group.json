@@ -1,0 +1,84 @@
+{
+  "_class": "group",
+  "do_objectID": "CE9E8C10-462A-4551-B6FC-640F78103C5E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AB9D4984-80E5-46D8-BF63-50C1CA624018",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "59EBF978-274D-4F19-BBFF-B7A262FCD1B5",
+    "height": 360,
+    "width": 344,
+    "x": 128,
+    "y": 543
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "DDB5FBDA-DC7A-489C-B34B-AF2AE0405833"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7922CFB5-8D23-4E3E-BCBF-4F43C13E18D5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F5E2979C-CC32-404B-A670-52EB93654484"
+    },
+    {
+      "class": "group",
+      "id": "F0CDAAC7-3511-4966-B8AA-AD614634CDCF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FA6953FA-697E-436D-8BD0-E990ABFC0FA8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C7C870E1-C991-412E-95DB-714F129AAD6B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8099B0CD-C63B-496C-A919-A032A23C3893"
+    },
+    {
+      "class": "group",
+      "id": "EB148E9E-105A-4EE1-B68D-37F4631B0CBE"
+    },
+    {
+      "class": "group",
+      "id": "2DCFB579-8FD8-4319-85E1-9319DB35110F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "14449C0C-3DBC-4907-AEDC-06910A9E3393"
+    }
+  ],
+  "name": "popup settings chande kroll stop copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8609BA64-40A3-48D8-AFD3-F33BC1EB50A2",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

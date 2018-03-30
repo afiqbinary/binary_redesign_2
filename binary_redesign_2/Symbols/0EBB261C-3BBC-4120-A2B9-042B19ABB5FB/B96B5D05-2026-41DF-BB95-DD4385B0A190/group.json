@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "B96B5D05-2026-41DF-BB95-DD4385B0A190",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E8D4C88F-343A-4CD5-BCCD-E026B7AC040E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D8EEBBF7-76A4-4DCE-BA00-86F18420809B",
+    "height": 56,
+    "width": 144,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9C2AD5FA-A2A6-42AE-B676-641B8AD507AC"
+    },
+    {
+      "class": "text",
+      "id": "4CEAE3B5-5491-4A53-802E-C6988C05111C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5BE6F255-4BEB-4EB7-8839-CC71C37595A8"
+    }
+  ],
+  "name": "tab-Cashier",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "583A4617-42C0-4B66-8429-C638FA231B21",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

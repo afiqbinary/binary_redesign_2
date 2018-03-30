@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "5287BEF1-287C-4AE7-B8F1-70F8A53A78EE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AC5E6051-9F64-49A0-8E6B-3651BFDFEEE1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "1D16D04D-D3FE-488E-8613-3D9140809DE2",
+    "height": 16,
+    "width": 16,
+    "x": 300,
+    "y": 8
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icons/system/google/ic_help_outline_light",
+  "nameIsFixed": true,
+  "originalObjectID": "00ACA42E-2CFE-45D7-B7B8-33A714AA1910",
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "54B4CFD4-10A3-45CE-A191-DF793B5CB289",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "FE64A185-60F7-4469-A9AF-E7B1D76969C1",
+  "verticalSpacing": 0
+}

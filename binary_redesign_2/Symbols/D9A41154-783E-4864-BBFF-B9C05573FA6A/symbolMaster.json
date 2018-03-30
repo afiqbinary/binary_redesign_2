@@ -1,0 +1,88 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "9F1DB016-18F0-41B8-9875-8E04CF9DB504",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 2411,
+  "do_objectID": "D9A41154-783E-4864-BBFF-B9C05573FA6A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5739E665-2200-49AD-98C2-AA6410F9DB46",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "517373DD-1D68-4605-AC86-ECB163F40629",
+    "height": 16,
+    "width": 16,
+    "x": 22732,
+    "y": 9696
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "DF438983-B249-47F4-A870-1047B5BD8042",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A708EE2C-ECCA-47BA-9093-019D0D933D71"
+    }
+  ],
+  "name": "icons/system/light/line/purple",
+  "nameIsFixed": true,
+  "originalObjectID": "78471E45-9507-4979-9E3E-1558B89F37C2",
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A287E527-2849-49AB-B762-3C1535A919ED",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "2784AF1F-92FB-4E91-AB86-554AD75CC263",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "EBC311A3-DE2C-498D-904F-3B8228B479D4",
+    "guides": [
+    ]
+  }
+}

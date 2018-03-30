@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "do_objectID": "19E066F7-42D5-42E3-A016-BE8D82C738AE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F623DFCB-9CDA-4C61-8C4C-F4ADC879C9B9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4A2653BF-9478-4786-9836-7D8834105521",
+    "height": 154,
+    "width": 324,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "BE7A49EA-5A37-4329-9CA5-A3A00A043F32"
+    },
+    {
+      "class": "group",
+      "id": "B071753B-8AE0-48AD-AF0D-92732C0B9EBE"
+    },
+    {
+      "class": "group",
+      "id": "081A99D9-7BFD-4CC1-B4AB-FBB502343338"
+    },
+    {
+      "class": "group",
+      "id": "CCCEA051-156A-4818-8486-AD23C90AB97C"
+    }
+  ],
+  "name": "Trade Duration",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "14C082C9-41E4-44CC-82A8-E6F536EA4E65",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

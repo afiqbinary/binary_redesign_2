@@ -1,0 +1,81 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "89B4585C-79C4-430A-AC51-974CF4F84F7C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "805E459B-C363-42A9-9629-20F52422814D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AABB63A7-9049-4B64-946E-8CAFAD413756",
+    "height": 675,
+    "width": 1068,
+    "x": 0,
+    "y": 80
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "elements/chart",
+  "nameIsFixed": false,
+  "originalObjectID": "AB5546F4-B045-4795-8F50-D8F195D0D334",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4789C912-23A2-4BB2-AEA6-5EE7A36CEE26",
+      "overrideName": "DBCF4DCA-045C-4F20-BDBC-237407D8B82F/9C1A16A4-10F6-4397-BC31-370BFF7153A5_symbolID",
+      "value": "34CCD6C9-9068-41C6-8714-AB6F4560374C"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "24357900-9A17-49E1-94D7-E352C4D1879D",
+      "overrideName": "F1071209-89C7-4AA0-9E8D-42FEF0FA3D43_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4326D710-7FF4-460C-B58D-AC36CD6C2FE1",
+      "overrideName": "B9EFBFC6-A413-4B82-8697-F404D63113D8_symbolID",
+      "value": ""
+    }
+  ],
+  "overrides": {
+    "B9EFBFC6-A413-4B82-8697-F404D63113D8": {
+      "symbolID": ""
+    },
+    "DBCF4DCA-045C-4F20-BDBC-237407D8B82F": {
+      "9C1A16A4-10F6-4397-BC31-370BFF7153A5": {
+        "symbolID": "34CCD6C9-9068-41C6-8714-AB6F4560374C"
+      }
+    },
+    "F1071209-89C7-4AA0-9E8D-42FEF0FA3D43": {
+      "symbolID": ""
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F8ECD5B7-6184-4E2C-9EF7-6682E9939239",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "0F730486-D076-4E59-979D-77C78BFDA22B",
+  "userInfo": {
+  },
+  "verticalSpacing": 0
+}

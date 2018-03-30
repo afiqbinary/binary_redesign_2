@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "7813EE7B-0E2A-4C10-8112-5E733F8F1110",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4FA2D226-4BDA-4520-8E7C-146861A8B417",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6BFBEDEC-5694-4492-B4B5-076EAE074787",
+    "height": 52,
+    "width": 239,
+    "x": 0,
+    "y": 26
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "550041D3-11C6-41F7-A580-A493373BB16B"
+    },
+    {
+      "class": "text",
+      "id": "CAFAB83E-EA5C-4C0E-BA2B-7FD680CD798D"
+    }
+  ],
+  "name": "contract message",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8BB66727-BF3D-4671-B6BA-625581A4A203",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

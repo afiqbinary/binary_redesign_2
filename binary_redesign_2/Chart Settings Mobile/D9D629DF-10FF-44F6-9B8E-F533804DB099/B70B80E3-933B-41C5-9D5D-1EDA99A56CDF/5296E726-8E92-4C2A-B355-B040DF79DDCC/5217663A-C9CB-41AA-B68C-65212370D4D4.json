@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "5217663A-C9CB-41AA-B68C-65212370D4D4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "538C5721-E2F8-4C39-B1AC-98EC036CF54F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "76FA4AA6-5910-4379-889D-937D770D3FD4",
+    "height": 24,
+    "width": 320,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "title",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6E2B5BC8-BF16-4A70-9814-22DA1334E1EC",
+      "overrideName": "AE6D8493-7F32-4653-9FA5-F9A2BC2DC929_stringValue",
+      "value": "Commodities"
+    }
+  ],
+  "overrides": {
+    "AE6D8493-7F32-4653-9FA5-F9A2BC2DC929": "Commodities"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A8152CB4-C322-4069-A19B-0DC2CED49527",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "A22C0305-F234-40AF-A838-C8CA2D254E9C",
+  "verticalSpacing": 0
+}

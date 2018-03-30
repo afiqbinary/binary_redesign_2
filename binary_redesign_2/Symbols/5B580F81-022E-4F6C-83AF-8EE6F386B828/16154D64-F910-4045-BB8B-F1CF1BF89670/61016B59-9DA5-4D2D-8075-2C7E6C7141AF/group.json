@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "61016B59-9DA5-4D2D-8075-2C7E6C7141AF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6F1802C3-CFE5-430A-8BC7-9D4873146233",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8F865590-D569-438B-987E-14827DDF86BA",
+    "height": 56,
+    "width": 270,
+    "x": 0,
+    "y": 8
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "3B370E28-9A1E-43FB-B414-4163C7E497C5"
+    },
+    {
+      "class": "text",
+      "id": "97C0CDE8-2BE0-4A72-92FD-3C08D0B6B00A"
+    },
+    {
+      "class": "group",
+      "id": "F641A0D8-43EE-437B-8E3B-E0B0AFBB0605"
+    }
+  ],
+  "name": "Rise/Fall",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8B009A5D-7D73-4B8B-B5D7-F6B93EEC8D3F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "34BBA30E-A7DF-4FD5-84AA-CD296C6A4DF3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FA1F71E6-62B7-4912-A394-7B57271E383A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E505214A-4711-4FBA-BDA5-7A81359ACD36",
+    "height": 1484,
+    "width": 320,
+    "x": 0,
+    "y": 210
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "2084F14D-0EFD-419E-9EDE-14D1DD094A0B"
+    },
+    {
+      "class": "group",
+      "id": "205B4256-4B72-4914-B927-385C71C1FC1A"
+    },
+    {
+      "class": "group",
+      "id": "60D6275C-3F81-4F3C-B4C4-770E720CED2F"
+    }
+  ],
+  "name": "Forex",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3FA44B04-DF15-49EA-93B2-F74E61075D6C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "do_objectID": "882A44D3-52AB-44E9-B3C0-9E484F1D43D7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8CB1552E-9568-4657-8CD6-B9272D62F415",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8C035B28-E2AA-4097-A98E-0AB49356DA5A",
+    "height": 11,
+    "width": 277,
+    "x": 0,
+    "y": 234
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "22C3C320-70AD-413D-AAAA-26F510060AB4"
+    },
+    {
+      "class": "text",
+      "id": "F29D2608-B4D3-4611-9870-C7500666AC78"
+    },
+    {
+      "class": "text",
+      "id": "3984B169-0083-465A-874B-FF5643A9D4C5"
+    },
+    {
+      "class": "text",
+      "id": "519E11FC-2DFD-4590-B586-E4AA7B984A85"
+    }
+  ],
+  "name": "chart time",
+  "nameIsFixed": true,
+  "resizingConstraint": 37,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D038FF22-813A-4721-B6BB-8159C6B3570C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

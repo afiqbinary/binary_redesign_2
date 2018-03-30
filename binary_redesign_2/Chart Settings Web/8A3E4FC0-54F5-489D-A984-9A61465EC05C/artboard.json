@@ -1,0 +1,116 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "3A072E48-1F07-40A3-8797-B713451BD909",
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "8A3E4FC0-54F5-489D-A984-9A61465EC05C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "175046F7-1A93-4F6A-9CB8-16BCC317B166",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BB8FD544-93F8-4E09-B53E-A4D5B47DFA52",
+    "height": 803,
+    "width": 1440,
+    "x": -1003,
+    "y": 21990
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4B52CD1D-4CB9-4FA6-907C-5CD44BD082FB",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "97339913-E221-468C-9626-F830585DF6DC"
+    },
+    {
+      "class": "group",
+      "id": "1FA32B2D-D4E7-4F8C-B5D0-E45A76167350"
+    },
+    {
+      "class": "group",
+      "id": "249BD368-F9A5-401C-9A95-F576F8E1CF11"
+    },
+    {
+      "class": "group",
+      "id": "AB85CD20-F599-4134-B1FA-FDFF6B52834C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7A1FBAEC-DFA9-4A50-8267-B4EE81F7543C"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 96,
+    "do_objectID": "C896B921-A89C-4A66-ADC3-18B9F39CA662",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 24,
+    "guttersOutside": false,
+    "horizontalOffset": 12,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1416
+  },
+  "name": "7-2. Share Download Main",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F794000F-F12D-4836-A6A1-C7A3C51844DA",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "36C9D3DE-79A2-4A94-9EF7-A88866B1AAFF",
+    "guides": [
+    ]
+  }
+}

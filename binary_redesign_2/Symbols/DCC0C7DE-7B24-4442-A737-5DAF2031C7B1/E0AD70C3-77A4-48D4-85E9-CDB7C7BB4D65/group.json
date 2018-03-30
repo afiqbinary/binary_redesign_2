@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "E0AD70C3-77A4-48D4-85E9-CDB7C7BB4D65",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7DBA89FF-2A74-46C6-9B18-DC2EF0BF8E91",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0462EDBC-23D5-4865-8458-9AD9CB6A6FC5",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8C290B76-5D92-44DC-8A09-0240057128FD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "56227B77-34B0-403F-AFBE-A9789AE11B1B"
+    }
+  ],
+  "name": "Drawing Tool/Dark",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "33187C2F-E745-483A-A314-707E7A132EE0",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

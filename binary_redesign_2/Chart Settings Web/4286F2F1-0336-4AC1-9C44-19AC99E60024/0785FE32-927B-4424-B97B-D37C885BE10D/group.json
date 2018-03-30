@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "do_objectID": "0785FE32-927B-4424-B97B-D37C885BE10D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "71A12F44-FCDE-4595-92A3-F5217329A66E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "93465252-60A2-4B2F-BFF3-4CEB94394167",
+    "height": 723,
+    "width": 1440,
+    "x": 0,
+    "y": 80
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "597A5047-5B0C-4B17-A7FD-D55FE4C4437B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D5748C1E-64A0-48C9-AA0B-13DDCEE769EB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E784A136-D0C2-4B96-BB73-1669EA74A811"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "414D6CAB-3441-4842-ACE8-DF4449110568"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E527EA35-F16C-4E28-B5F7-98D7E1898CA0"
+    }
+  ],
+  "name": "ends in ends out chart and parameter",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BF9B591B-FE69-441E-B0E5-428DF7A1071B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

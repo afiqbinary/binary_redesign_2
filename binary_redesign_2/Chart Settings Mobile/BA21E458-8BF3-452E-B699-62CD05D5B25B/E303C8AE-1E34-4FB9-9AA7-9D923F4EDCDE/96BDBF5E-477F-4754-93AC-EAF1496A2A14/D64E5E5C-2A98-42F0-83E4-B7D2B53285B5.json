@@ -1,0 +1,55 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "D64E5E5C-2A98-42F0-83E4-B7D2B53285B5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B13DF006-9339-49D3-A411-4F893A56485B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "85BB1F1F-1721-4EB3-980C-C23CB9CBCEF0",
+    "height": 24,
+    "width": 320,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "title",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "AE6D8493-7F32-4653-9FA5-F9A2BC2DC929_stringValue",
+      "value": "Volatility Indices"
+    }
+  ],
+  "overrides": {
+    "AE6D8493-7F32-4653-9FA5-F9A2BC2DC929": "Volatility Indices"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "55BE08C0-77B0-4CEF-B990-6723210071F1",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "A22C0305-F234-40AF-A838-C8CA2D254E9C",
+  "verticalSpacing": 0
+}

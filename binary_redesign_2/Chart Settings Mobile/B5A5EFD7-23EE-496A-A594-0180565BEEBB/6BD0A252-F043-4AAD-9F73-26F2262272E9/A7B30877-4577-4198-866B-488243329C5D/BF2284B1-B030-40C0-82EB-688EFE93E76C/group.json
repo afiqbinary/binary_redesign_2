@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "do_objectID": "BF2284B1-B030-40C0-82EB-688EFE93E76C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2226EBC6-2D30-45EE-A498-F4B296405A15",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AAE2F24F-8251-4F07-968A-9937DA0502B2",
+    "height": 194,
+    "width": 300,
+    "x": 10,
+    "y": 386
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "66267215-67FC-46B8-8AC2-5511DE1DA9F7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "484BAEBA-37E0-4A3F-84BD-E2CE203E357C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1B0B8ACD-3EF7-422E-9621-54121EEB06BD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8049BDE9-9359-44D1-B6EA-3045EE45690F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A4E1FA98-8DD1-45D2-B844-6D904339DBC8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1E24C741-37B0-411F-9E6D-146EF5B38E8A"
+    }
+  ],
+  "name": "india",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6DB1964B-CCAD-4509-9168-0B28D59ACF9E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "_class": "group",
+  "do_objectID": "866F42A8-7F8C-4BA7-86C1-96459F0D2A65",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E08133BC-867D-4531-8A93-ED61EEABA1F3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "750F401C-6560-4C90-B3F3-D88A9F722033",
+    "height": 16,
+    "width": 16,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "956C9D45-90DD-4385-90BE-199DEB416879"
+    },
+    {
+      "class": "group",
+      "id": "D00950DF-9B17-45B8-BBF3-65FF3600760C"
+    }
+  ],
+  "name": "Group 121",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "71AC623B-366D-4D8E-B00F-E3F1FA2CC9C0",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 6.666666666666666,
+      "type": 0
+    },
+    "do_objectID": "CEAEE61D-EDAE-4471-B2CE-A6AFA84ED258",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 24,
+            "enabled": 1,
+            "modelID": "constraint_9190c151-6279-4e2b-87ca-c4fb8aafa8b9",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 24
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_2db92294-ce06-4de5-bb96-9f7ca9a762b7",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

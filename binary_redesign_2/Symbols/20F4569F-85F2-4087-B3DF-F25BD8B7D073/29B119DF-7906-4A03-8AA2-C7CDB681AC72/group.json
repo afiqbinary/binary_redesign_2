@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "29B119DF-7906-4A03-8AA2-C7CDB681AC72",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "563A945E-B27F-43DB-8EBF-73D21A9BFF44",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "663C9515-AE3D-43FA-AFD4-4BA3D1C935BA",
+    "height": 16,
+    "width": 16,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "838629BA-30A3-4706-ABFC-55F5C3F6E284"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3A28B3D2-244D-415D-B095-204EA17F7A65"
+    }
+  ],
+  "name": "ic-linedot",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B105B362-27E1-495D-BA2E-1E99F041129F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

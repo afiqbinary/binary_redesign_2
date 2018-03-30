@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "DAB9F432-7E17-4283-95A0-3913B8B00FDB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7B19B914-B04C-429C-8E23-44BF2D61F885",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A4F1E797-21BC-4C92-85E9-0C6EA4AB6A57",
+    "height": 56,
+    "width": 144,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F72F7D64-346E-4D40-A380-40F64365EF6F"
+    },
+    {
+      "class": "text",
+      "id": "A64F7EE2-5242-485B-B364-9504A19A894B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "67A7F0A2-F019-4755-A4F7-10F26A4D3142"
+    }
+  ],
+  "name": "tab-Portfolio",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8D5FE40E-A337-4D03-A1D4-B261BA417AE4",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "do_objectID": "41E86D09-1031-4923-B558-87BAC192DBAD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C90911FD-AD01-4825-8656-2296003CFE48",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9EDC4D46-5B03-4D58-8C9F-33AF0C6F5874",
+    "height": 215,
+    "width": 1070,
+    "x": 95,
+    "y": 76
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "BD8E4611-7532-4EFE-A751-9C8913FA851F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5592892C-8D9E-40C8-9E1E-E2E356666413"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FEC575D7-E6D2-4044-9803-A6B45616FABA"
+    },
+    {
+      "class": "text",
+      "id": "2DFF2EC9-6630-4DF6-AC81-EE26275A8197"
+    }
+  ],
+  "name": "Current tick",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "13A84208-9944-48FB-8FE8-BA47B8D443EF",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

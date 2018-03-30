@@ -1,0 +1,88 @@
+{
+  "_class": "group",
+  "do_objectID": "0655C331-54EC-4DB1-8B37-F62DA2D01BE7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2A34C9BB-4D5C-4FD5-98BF-49E6962D1222",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C84C32C2-0168-4E6C-926D-9123D06C20DB",
+    "height": 311,
+    "width": 366,
+    "x": 1,
+    "y": 29
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E3ED55AC-2D55-4224-8662-B8BECC30CD19"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1B58834B-6477-483B-A6EB-6E89E7DBFA56"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1020161C-71BA-4F59-B429-0A0A6FA56D3F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0261C612-0E26-4469-8B73-159630270132"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4D45DBA8-1D15-4FBA-8DD9-0BD5E889A3DC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "51D7EA7E-0133-4F32-8B2C-56C5E8EAB117"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "021314FD-BA34-45C6-817C-B341D36ACD2E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6E9FD498-B2BF-45DE-BD12-5D6D20E6A364"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E865375F-18CC-4A2E-AFC8-E998585308F0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5DC9E5DF-E3B9-43EF-8549-6BB3FE50C1E5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0BD18353-2C3D-4854-8F36-4A16D925C4C9"
+    }
+  ],
+  "name": "rows",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C838118E-E3C0-4220-A966-1F9E5777CC91",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

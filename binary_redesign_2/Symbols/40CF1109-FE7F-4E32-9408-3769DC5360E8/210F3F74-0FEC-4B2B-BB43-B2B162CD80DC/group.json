@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "210F3F74-0FEC-4B2B-BB43-B2B162CD80DC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "511AC5F9-133C-49AB-941C-8A5D2226F5B1",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "089BBFCD-42C8-4930-9F29-6281A25F7897",
+    "height": 16,
+    "width": 16,
+    "x": 4,
+    "y": 4
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "CA7E2337-D8DB-4E8D-8306-7E22BB1B28B8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EDDAB3F4-AC31-41ED-9860-C6D23CCF79F9"
+    }
+  ],
+  "name": "ic-crosshair",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9A067274-9423-4B5C-ACE7-2157DA32F9DC",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

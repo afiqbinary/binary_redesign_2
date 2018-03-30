@@ -1,0 +1,48 @@
+{
+  "_class": "group",
+  "do_objectID": "DAB13375-A9CB-412D-9CD2-BCB283253730",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B5DE1C32-2D50-4825-BEAF-EE20D265F97F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8B60738B-94E6-4E65-8A8B-1174A2B194B4",
+    "height": 16,
+    "width": 16,
+    "x": 51,
+    "y": 20
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "FFD3AAC8-D9C6-40B1-9844-9EC66539AD2B"
+    }
+  ],
+  "name": "icons/system/google/ic_trending_down",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8D34DB39-A0AA-4F97-9F79-533E76E3875E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

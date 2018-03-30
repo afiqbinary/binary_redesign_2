@@ -1,0 +1,79 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "AE2ACDF9-A617-4D9B-9F8F-F6927F3F7D93",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 2129,
+  "do_objectID": "5B580F81-022E-4F6C-83AF-8EE6F386B828",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "955748F3-AF44-4AFA-A2EB-FB2654D26CA4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3608B901-511E-4597-B81C-E2819E69C30D",
+    "height": 353,
+    "width": 540,
+    "x": 19566,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B6F9ED6F-BC24-40AB-94FD-45E62600230A",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "16154D64-F910-4045-BB8B-F1CF1BF89670"
+    }
+  ],
+  "name": "elements/trade types/dropdown",
+  "nameIsFixed": true,
+  "originalObjectID": "7D0B5ED2-E5A3-4C4C-8822-6E52A47B5AD9",
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FF1E9194-CEBE-4407-A268-AEEBED70C6A1",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "EE1C4AFA-2B5C-4095-A789-99DEEEBE953F",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "21C079FE-8004-491A-9B7B-8EC5CAC51098",
+    "guides": [
+    ]
+  }
+}

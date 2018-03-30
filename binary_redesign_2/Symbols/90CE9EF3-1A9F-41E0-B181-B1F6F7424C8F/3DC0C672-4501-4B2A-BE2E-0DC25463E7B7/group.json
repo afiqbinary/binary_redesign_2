@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "do_objectID": "3DC0C672-4501-4B2A-BE2E-0DC25463E7B7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A2E5CC12-45AD-4697-9903-44EA26F38484",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "759F66EA-C07A-446F-86B8-E47E9B34B8E7",
+    "height": 16,
+    "width": 16,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9D7EBDE3-0840-430D-8EA9-646A692F1AF1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "701B2FF3-A152-48DC-BEF5-3E54AD596F5D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "73D0358D-FC0C-433F-AC7F-736B03D08CBC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "81AB34BF-60C9-496F-94DE-4D6B4FA12C02"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CA68193D-E20D-4F61-BFE3-D2BB1C7A931D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "03F19925-81C4-4045-B506-BAF1F02C9C9C"
+    }
+  ],
+  "name": "binary/icons/Asian Up/ Asian Up Off",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D7ADBCD4-5D98-4D4C-938E-045864BFCD2B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

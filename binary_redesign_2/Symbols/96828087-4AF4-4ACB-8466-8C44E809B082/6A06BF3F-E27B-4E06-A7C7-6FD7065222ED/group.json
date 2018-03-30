@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "do_objectID": "6A06BF3F-E27B-4E06-A7C7-6FD7065222ED",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "700D9FDB-BD9A-4967-B61C-E27D88BCD04B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E2360557-EF6F-4053-8F5C-6EA56B06A5CD",
+    "height": 16,
+    "width": 16,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "48DE9F92-B83E-4259-9E67-03C2CFA45CFF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "16814F85-E011-4867-83E3-EE38F1665EA4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BCFE9ED6-8865-4E8B-8C67-ED5274C5977A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "051D1D5B-9E5F-4A66-BF63-60E779FDA789"
+    }
+  ],
+  "name": "binary/icons/Digit Over/Digit Over Off",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "10469A3A-5648-4B8A-8945-1877ED41423C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

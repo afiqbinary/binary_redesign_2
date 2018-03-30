@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "do_objectID": "5EB224CF-FCA5-42A6-8062-77AD6BB1D5B1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "98A2532F-638F-40FA-8C6A-5D901F1DB714",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "47F4BC63-2621-4FA7-B54F-FC3BE47C2D38",
+    "height": 14,
+    "width": 16,
+    "x": 0,
+    "y": 1
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A64BFFC1-8CED-46D5-A48C-C370BC9C54C7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "08AC7F8F-A24D-42C7-981F-C2017B1A0356"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "94866DA8-29FC-42A9-A801-15E5423C94AB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3F011720-9228-4AFF-BD1E-B69295F18DD3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3892CA48-C11F-4E22-BA35-F15000449B3B"
+    }
+  ],
+  "name": "ic-portfolio-active-light",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "11F9D80B-701B-40C9-83CC-ED31E3B781C0",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

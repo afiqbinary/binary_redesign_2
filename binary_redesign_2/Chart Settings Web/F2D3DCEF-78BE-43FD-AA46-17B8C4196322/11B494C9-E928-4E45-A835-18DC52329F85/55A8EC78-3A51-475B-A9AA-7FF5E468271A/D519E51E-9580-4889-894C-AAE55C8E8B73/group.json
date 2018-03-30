@@ -1,0 +1,83 @@
+{
+  "_class": "group",
+  "do_objectID": "D519E51E-9580-4889-894C-AAE55C8E8B73",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0B9C3809-E35F-4567-B86E-289214871FB7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "5EB4E25A-A47E-4D88-98DC-A9265A1E32EF",
+    "height": 677,
+    "width": 1165,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "D5D78F21-3A91-4D9F-BF85-6E1E46196B17"
+    },
+    {
+      "class": "group",
+      "id": "CD3BDAFA-9854-4D5E-BA72-7C10E23D642E"
+    },
+    {
+      "class": "group",
+      "id": "45D5F5CB-F427-4580-A4BE-8F125F5D2C29"
+    }
+  ],
+  "name": "chart",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "E3824BFF-3013-4F8F-A31A-874D71191F4D",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 18.02973977695167,
+      "type": 0
+    },
+    "do_objectID": "94ECBCD6-290E-4D69-B50E-39F3B441EDCA",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

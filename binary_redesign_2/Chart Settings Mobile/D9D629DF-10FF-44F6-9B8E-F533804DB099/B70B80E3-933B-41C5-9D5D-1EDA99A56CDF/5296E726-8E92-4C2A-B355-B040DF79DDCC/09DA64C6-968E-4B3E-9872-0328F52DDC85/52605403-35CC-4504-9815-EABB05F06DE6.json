@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "52605403-35CC-4504-9815-EABB05F06DE6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1F538405-6A09-49F1-9A88-F41FA29D429B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E872302E-F4F9-4EF4-8B91-F256DDD71C1A",
+    "height": 40,
+    "width": 302,
+    "x": -1,
+    "y": -1
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list/subtitle/web",
+  "nameIsFixed": false,
+  "originalObjectID": "114C647E-19E0-4F54-94AC-6245F07CB652",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "FB6C28CE-1B65-44AD-AB0A-94835B347C83_stringValue",
+      "value": "Metals"
+    }
+  ],
+  "overrides": {
+    "FB6C28CE-1B65-44AD-AB0A-94835B347C83": "Metals"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "093EAF8F-BB2F-478C-824D-FBD5F19CE4DA",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "BF961724-C47E-45C9-8ADA-D170E74708FB",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,84 @@
+{
+  "_class": "group",
+  "do_objectID": "4C284C15-8BFE-4A1D-93DE-971DCBF83FA8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "25E320A1-8B87-4193-9002-C11FF22CE7A4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "63C68816-F12D-4704-A7D2-A58D3F2C3919",
+    "height": 350,
+    "width": 300,
+    "x": 10,
+    "y": 308
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5EE947C9-E63B-443A-A2C6-65D43C948BFD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9CEA83C1-2868-4955-A68C-08877A9D8966"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "52FCCFCB-EDDE-4E2A-BCE3-F37B2375DBE8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "479729B8-3F90-48C0-9EA8-C926333F428B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F4E9C428-B7F9-40EC-8B68-F2C32ED1D7EE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1C9B8953-2EDC-4A10-A373-F1C9BA82AAA5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "02ED0222-287D-42C2-8F87-86F1AD65914F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9CC2D768-1614-49A3-BB05-CEA69D40DAF0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5EDAAF57-8388-481D-971A-E394C628B92F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7EEE37D1-8A27-4BE8-B7A9-C85AB6428F72"
+    }
+  ],
+  "name": "europe/africa",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AE8CBC90-1934-435E-A1B9-8211C2AA5EE7",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "do_objectID": "95E99B14-5ED6-4031-8FC1-B88C2BC8F587",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D651AFB2-6B45-4337-8A1C-6E8378B455DF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "466CBB0A-11EB-4DC3-88ED-F187DDD16307",
+    "height": 116,
+    "width": 300,
+    "x": 10,
+    "y": 281
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "516E2B94-7D3B-4426-82DC-6FDA65832BD6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7C16B9FE-492D-4C98-AE44-48658C6FB0B3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4F79DCF8-DA3E-4D12-8B81-6ED611DC725B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EE5F1F23-CAEA-4132-A9E4-53B3985F2BA8"
+    }
+  ],
+  "name": "Daily Reset Indices",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "417E1D75-D152-4F56-ABA9-13ACECF9D9B1",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

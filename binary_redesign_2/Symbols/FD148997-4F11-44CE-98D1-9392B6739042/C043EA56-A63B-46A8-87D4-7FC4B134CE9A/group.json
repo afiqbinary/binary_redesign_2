@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "C043EA56-A63B-46A8-87D4-7FC4B134CE9A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6DA4828C-69BE-4FCC-8CD0-902F286C2270",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5E5C4CA8-09E0-449F-855C-154323A273C5",
+    "height": 16,
+    "width": 16,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "E613D6BE-5EA8-4642-A31D-66797D57ECC0"
+    },
+    {
+      "class": "group",
+      "id": "5D0BE054-0E08-4ED8-8E89-DBB9D8648B33"
+    }
+  ],
+  "name": "binary/icons/rise/rise off",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E2937400-7491-4F95-ABD4-AB641EE97410",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

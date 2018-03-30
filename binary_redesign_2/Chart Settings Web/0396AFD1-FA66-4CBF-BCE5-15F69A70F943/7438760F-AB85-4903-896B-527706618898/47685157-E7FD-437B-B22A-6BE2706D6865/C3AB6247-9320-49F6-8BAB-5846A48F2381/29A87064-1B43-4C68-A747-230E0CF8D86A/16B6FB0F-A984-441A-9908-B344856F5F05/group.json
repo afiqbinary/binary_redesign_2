@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "do_objectID": "16B6FB0F-A984-441A-9908-B344856F5F05",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C042A25C-4599-4B30-AF09-9E8B8CFA8609",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "66104918-35E4-4F4A-B48D-2198211BF0F8",
+    "height": 40,
+    "width": 86,
+    "x": 98,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "790B413C-0B9C-4254-8ACE-A6C785A45CBA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6BBDD5AD-8BDF-4C21-8D61-3B7BA46CEBB3"
+    },
+    {
+      "class": "text",
+      "id": "73CCD8BA-AC43-4CAB-B70C-C9E49AA54351"
+    },
+    {
+      "class": "group",
+      "id": "1E079FB2-5295-464E-820E-B6ED05F40C76"
+    }
+  ],
+  "name": "stake",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EC0DE790-D330-47C5-9233-3861ED6EDFBD",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

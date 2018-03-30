@@ -1,0 +1,54 @@
+{
+  "_class": "group",
+  "do_objectID": "12CAEDDD-083B-4A83-90FA-0893142A3BD3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 81,
+    "width": 62,
+    "x": 106,
+    "y": 19.5
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "26CB065F-B902-4FB3-9163-721B90C55D0F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9583CAED-73DD-4064-9401-A8A197396BF7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1BCC9DCE-81BD-473F-AA8B-B89121439A94"
+    }
+  ],
+  "name": "Safari",
+  "nameIsFixed": false,
+  "originalObjectID": "8961ECE3-5E07-4480-8C16-2AF3DD3EC36F",
+  "resizingConstraint": 41,
+  "resizingType": 3,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

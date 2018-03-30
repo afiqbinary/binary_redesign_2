@@ -1,0 +1,86 @@
+{
+  "_class": "group",
+  "do_objectID": "B4E37082-3EFF-4615-BC39-5992EBCDB5FC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8EE6C38A-7C39-4732-BA7F-CA15C793257F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "93BBAF3A-D57E-4F98-BD33-AD3CD22E99E0",
+    "height": 64,
+    "width": 255,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B8192378-06F7-474C-8671-57DD539CB0EC"
+    },
+    {
+      "class": "text",
+      "id": "03A8621A-AD8D-4EC3-9BD6-FCF165642850"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "84378E35-6120-4506-A822-53B8D4D88124"
+    },
+    {
+      "class": "text",
+      "id": "06566FF8-1DEE-4EEC-AB5E-D47DA8353109"
+    },
+    {
+      "class": "group",
+      "id": "FEE46645-CF52-4072-B2B6-48A41C0EA84B"
+    }
+  ],
+  "name": "Choose market",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "47A83868-0421-439F-BFCA-AE389EB3072E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 1,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "EF8ED29E-ABC3-4CE1-AAC6-359036919C63",
+      "transition": 0
+    }
+  }
+}

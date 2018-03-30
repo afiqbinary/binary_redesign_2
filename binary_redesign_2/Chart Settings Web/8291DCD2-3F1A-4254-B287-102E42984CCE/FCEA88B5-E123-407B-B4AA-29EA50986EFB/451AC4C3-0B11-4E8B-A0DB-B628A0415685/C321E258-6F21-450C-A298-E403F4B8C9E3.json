@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C321E258-6F21-450C-A298-E403F4B8C9E3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "15893DE1-2F93-4A43-A69F-9AF074AD89A0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2ACA3CDF-2F07-4475-B4F4-0A8B0DA1CBED",
+    "height": 24,
+    "width": 24,
+    "x": 168,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "minute-30",
+  "nameIsFixed": true,
+  "originalObjectID": "28140DE8-D8EC-479F-A103-156CFEBDB8CE",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5E6BB8CA-F32F-4E56-8D80-CF3D0CA62502",
+      "overrideName": "C2F69957-5843-4674-B9AC-787DF32BEFCA_stringValue",
+      "value": "30"
+    }
+  ],
+  "overrides": {
+    "C2F69957-5843-4674-B9AC-787DF32BEFCA": "30"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BE5A12C2-399A-41A9-B817-EB28A87BFDE4",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "338B215F-94A1-4AE4-BCB0-263373BBB5D7",
+  "verticalSpacing": 0
+}

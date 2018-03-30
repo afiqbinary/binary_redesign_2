@@ -1,0 +1,100 @@
+{
+  "_class": "group",
+  "do_objectID": "DA564340-E4FF-454D-BDA6-F17194C1E594",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "08E7188A-BAB4-4869-A4B2-DA29777083A6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4895991B-E6D0-4432-B8A4-518C8CE6375D",
+    "height": 506,
+    "width": 366,
+    "x": 532,
+    "y": 3036
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "BFCB7DEA-FF3B-44C8-9ABC-48B236E1D933"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C0B39FD1-99FC-48D2-8FC0-C139B16EB09C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DE0BDF47-1AD7-403C-A516-678396C52E8C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "53444099-2C5E-4602-8EE2-8D1F4D9346C0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D3A9800B-9F6F-4B5B-8F3F-701EA61FBFAF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "747DC636-FDAD-4048-8C3A-D2D165D7F11A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C277C442-856F-4887-931A-52C391B7C793"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "78A1AD3C-3F49-40EA-927C-1263145CBA95"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B5D02B3E-AD6F-4299-BFB9-5F08C3F84A77"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "27B71572-E99A-4DDA-9E32-6CAFD480D4A9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "47BDB8CA-2185-492C-8FFD-27C951651307"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C536D431-B8F5-4869-9FBC-F998DB1134A9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "465E1776-21EE-454B-A9B7-7EBA39650BDE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "66CDE5DC-9864-449A-8562-2F65490E44E0"
+    }
+  ],
+  "name": "otc indices",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "393305CD-CA96-47B0-A71B-38CC3E4A7AFE",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

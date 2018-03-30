@@ -1,0 +1,70 @@
+{
+  "_class": "page",
+  "do_objectID": "1491716F-3E7E-432F-A089-40E66871EEDE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -776,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "CC6C9E44-F4EA-4F73-A8D7-7CE85F03848A"
+    },
+    {
+      "class": "artboard",
+      "id": "6D786E7B-ED03-49CD-A7C0-4F1BE4F27DBF"
+    },
+    {
+      "class": "artboard",
+      "id": "0490E7C9-DFBD-408D-9795-44BC082767AD"
+    },
+    {
+      "class": "artboard",
+      "id": "D1A2FEE8-159A-4A48-89C4-D847219D277F"
+    }
+  ],
+  "name": "Dialog for Indicators",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -520,
+    "guides": [
+    ]
+  }
+}

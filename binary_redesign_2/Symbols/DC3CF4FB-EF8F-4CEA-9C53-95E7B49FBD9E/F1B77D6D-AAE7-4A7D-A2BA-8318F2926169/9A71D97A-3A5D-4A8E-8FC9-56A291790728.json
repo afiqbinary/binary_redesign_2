@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGb3BYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHwcIDxAcHR4fKywtLi8wMTIzOT1FRkdISUxQXWBkZ2tVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAegANdSW52ZXN0IEFtb3VudNMREgoTFxtXTlMua2V5c1pOUy5vYmplY3RzoxQVFoAEgAWABqMYGRqAB4ARgBmAEF8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxl0xESCiAlG6QhIiMkgAiACYAKgAukJicoKYAMgA2ADoAPgBBTcmVkVWFscGhhVGJsdWVVZ3JlZW4jP8UVFRUu9AYjP/AAAAAAAAAjP9SUlJSiDgcjP8gYGBgOZH7SNDU2N1okY2xhc3NuYW1lWCRjbGFzc2VzXE5TRGljdGlvbmFyeaI2OFhOU09iamVjdNIKOjs8XxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAGIAS0xESCj5BRKI/QIATgBSiQkOAFYAWgBdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAMXlJvYm90by1SZWd1bGFy0jQ1SktfEBNOU011dGFibGVEaWN0aW9uYXJ5o0o2ONI0NU1OXxAQTlNGb250RGVzY3JpcHRvcqJPOF8QEE5TRm9udERlc2NyaXB0b3LXClFSU1RVVldYWVpbXFxaTlNUYWJTdG9wc1tOU1RleHRMaXN0c1xOU1RleHRCbG9ja3NfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uXxAPTlNNYXhMaW5lSGVpZ2h0XxAPTlNNaW5MaW5lSGVpZ2h0gB2AAIAcgBoQASNAMgAAAAAAANISCl5foIAb0jQ1YWJeTlNNdXRhYmxlQXJyYXmjYWM4V05TQXJyYXnSEgplX6CAG9I0NWhpXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjaGo4XxAQTlNQYXJhZ3JhcGhTdHlsZdI0NWxtXxASTlNBdHRyaWJ1dGVkU3RyaW5nom44XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0XFyVHJvb3SAAQAIABEAGgAjAC0AMgA3AFkAXwBmAG8AdgCDAIUAhwCJAJcAngCmALEAtQC3ALkAuwC/AMEAwwDFAMcA9AEWASkBMAE1ATcBOQE7AT0BQgFEAUYBSAFKAUwBUAFWAVsBYQFqAXMBfAGFAYoBlQGeAasBrgG3AbwB2QHbAd0B5AHnAekB6wHuAfAB8gH0AgoCIAIiAjECNgJMAlACVQJoAmsCfgKNApgCpAKxAtMC5QL3AvkC+wL9Av8DAQMKAw8DEAMSAxcDJgMqAzIDNwM4AzoDPwNZA10DcAN1A4oDjQOiA7QDtwO8AAAAAAAAAgEAAAAAAAAAcwAAAAAAAAAAAAAAAAAAA74="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "9A71D97A-3A5D-4A8E-8FC9-56A291790728",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 18,
+    "width": 78,
+    "x": 32,
+    "y": 7
+  },
+  "glyphBounds": "{{1, 4}, {76, 10}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Invest Amount",
+  "nameIsFixed": false,
+  "originalObjectID": "9A71D97A-3A5D-4A8E-8FC9-56A291790728",
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "3F3875FD-8D77-4778-A3F0-439807B7E679"
+  },
+  "textBehaviour": 0
+}

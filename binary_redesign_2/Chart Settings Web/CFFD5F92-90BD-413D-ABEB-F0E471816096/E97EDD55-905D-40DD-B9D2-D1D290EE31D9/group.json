@@ -1,0 +1,110 @@
+{
+  "_class": "group",
+  "do_objectID": "E97EDD55-905D-40DD-B9D2-D1D290EE31D9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3FE8EDD4-5247-453A-9D73-83DD14FA3FA6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F035CD2E-41D8-4EBD-98D4-77A6234DB050",
+    "height": 336,
+    "width": 200,
+    "x": 257,
+    "y": 348
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3573A3D5-BFC6-4E21-BB4C-778A974C9565"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "808657B7-A5FF-42FD-A14B-6FE640EC5E3F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4D98D059-383A-419A-A872-D7B1CE83DC9F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AFE77AF9-5103-4657-8F6F-F4966A643996"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "65002B09-B403-4D30-87DC-EA283D6BFF99"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1AAF9ECA-78EC-4261-9104-258DEAD9E1FE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A8FC402A-B51E-4B79-B393-0A73F616A20C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "48934DED-7E17-4BA6-9F4E-245D755B9AF6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C6985703-2224-41AE-A878-D7B1FE430851"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FDDCA410-4E12-48A4-B7DC-72AFA9EB7D7A"
+    },
+    {
+      "class": "group",
+      "id": "5FB75FA8-F2E2-4126-9A24-A9F67DB4FE0E"
+    }
+  ],
+  "name": "chart style popup",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9F23549D-8DDD-4774-9F1D-E3E5B929971A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 10,
+        "color": {
+          "_class": "color",
+          "alpha": 0.14,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 0,
+        "offsetY": 6,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  }
+}

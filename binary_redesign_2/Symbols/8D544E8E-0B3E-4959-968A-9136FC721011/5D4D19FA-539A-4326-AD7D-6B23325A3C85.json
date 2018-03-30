@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "5D4D19FA-539A-4326-AD7D-6B23325A3C85",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BF2AC085-8EB0-42EA-BA71-A1164FCFDD6A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "131BB636-8EA6-4AA6-A428-F4A058D665EA",
+    "height": 48,
+    "width": 180,
+    "x": 5,
+    "y": 5
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "mobile/Market/with details",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5214FACC-FC88-4542-955D-C75408331C6B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "A8AC3B25-9DE3-497A-9DFD-85DA2FBAF1E3",
+  "verticalSpacing": 0
+}
